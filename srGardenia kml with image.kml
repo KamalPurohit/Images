@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>srGardenia kml with image.kml</name>
+	<Schema name="newgenhomes_tarihal01_onmaps_modified" id="newgenhomes_tarihal01_onmaps_modified">
+		<SimpleField type="float" name="fid">
+		</SimpleField>
+		<SimpleField type="string" name="Layer">
+		</SimpleField>
+		<SimpleField type="int" name="PaperSpace">
+		</SimpleField>
+		<SimpleField type="string" name="SubClasses">
+		</SimpleField>
+		<SimpleField type="string" name="Linetype">
+		</SimpleField>
+		<SimpleField type="string" name="EntityHandle">
+		</SimpleField>
+		<SimpleField type="string" name="Text">
+		</SimpleField>
+	</Schema>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>newgenhomes_tarihal01_onmaps_modified</name>
+		<open>1</open>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.2">
+			<name>1</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">2</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">88</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0454218327851,15.3535291309919,0 75.04523894489429,15.3534796862201,0 75.0452859833689,15.3533923289687,0 75.0454479499238,15.353435474052,0 75.0454218327851,15.3535291309919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.1">
+			<name>2</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">1</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">86</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0454702036684,15.3533557247439,0 75.0454479499238,15.353435474052,0 75.0452859833689,15.3533923289687,0 75.04532754857649,15.3533151766312,0 75.0454702036684,15.3533557247439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.3">
+			<name>3</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">3</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">8A</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0456091072549,15.3533952068745,0 75.0455604385195,15.3535666028117,0 75.0454218327851,15.3535291309919,0 75.0454702036684,15.3533557247439,0 75.0456091072549,15.3533952068745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.4">
+			<name>4</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">4</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">8C</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0457814164443,15.3536249096832,0 75.0458271663709,15.3534541556332,0 75.0456906407785,15.3534161526238,0 75.0456443657005,15.3535886806625,0 75.0457814164443,15.3536249096832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.5">
+			<name>5</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">5</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">8E</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04656640090469,15.3538341614275,0 75.0464301173805,15.3537980069483,0 75.0464558632581,15.3537102040395,0 75.04659276642209,15.3537479094697,0 75.04656640090469,15.3538341614275,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.6">
+			<name>6</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">6</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">90</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04661679227451,15.353669359819,0 75.04659276642209,15.3537479094697,0 75.0464558632581,15.3537102040395,0 75.0464786311621,15.3536326059958,0 75.04661679227451,15.353669359819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.7">
+			<name>7</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">7</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">92</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04669761493621,15.3536902576391,0 75.04683672091591,15.3537283816989,0 75.04681450659869,15.3538054373473,0 75.0466760525419,15.3537674911103,0 75.04669761493621,15.3536902576391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.8">
+			<name>8</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">8</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">94</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0467887063437,15.353894985267,0 75.0466508224949,15.3538579169111,0 75.0466760525419,15.3537674911103,0 75.04681450659869,15.3538054373473,0 75.0467887063437,15.353894985267,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.9">
+			<name>9</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">9</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">96</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0469496397595,15.3538424662441,0 75.0469238525294,15.3539313103134,0 75.0467887063437,15.353894985267,0 75.04681450659869,15.3538054373473,0 75.0469496397595,15.3538424662441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.10">
+			<name>10</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">10</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">98</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0469720067051,15.3537654512744,0 75.0469496397595,15.3538424662441,0 75.04681450659869,15.3538054373473,0 75.04683672091591,15.3537283816989,0 75.0469720067051,15.3537654512744,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.11">
+			<name>11</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">11</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">9A</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0471698581535,15.3539027946168,0 75.0470316248835,15.3538649282088,0 75.0470533831033,15.3537868999156,0 75.04719119674201,15.3538251461458,0 75.0471698581535,15.3539027946168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.12">
+			<name>12</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">12</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">9C</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0471458314106,15.3539902745375,0 75.04700699480409,15.3539533050634,0 75.0470316248835,15.3538649282088,0 75.0471698581535,15.3539027946168,0 75.0471458314106,15.3539902745375,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.13">
+			<name>13</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">13</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">9E</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0473065210236,15.3539402233529,0 75.0472822401248,15.354026590002,0 75.0471458314106,15.3539902745375,0 75.0471698581535,15.3539027946168,0 75.0473065210236,15.3539402233529,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.14">
+			<name>14</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">14</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">A0</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0473281983771,15.3538631596896,0 75.0473065210236,15.3539402233529,0 75.0471698581535,15.3539027946168,0 75.04719119674201,15.3538251461458,0 75.0473281983771,15.3538631596896,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.15">
+			<name>15</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">15</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">A2</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0475253360907,15.3540001362788,0 75.0473887370141,15.353962736787,0 75.04741132214529,15.3538845677617,0 75.0475469844622,15.3539207290909,0 75.0475253360907,15.3540001362788,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.16">
+			<name>16</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">16</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">A4</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0475022583709,15.3540848340272,0 75.0473641200789,15.3540479872186,0 75.0473887370141,15.353962736787,0 75.0475253360907,15.3540001362788,0 75.0475022583709,15.3540848340272,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.17">
+			<name>17</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">17</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">A6</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0476639702282,15.3540380853615,0 75.0476385806701,15.3541211891413,0 75.0475022583709,15.3540848340272,0 75.0475253360907,15.3540001362788,0 75.0476639702282,15.3540380853615,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.18">
+			<name>18</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">18</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">A8</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.047688330255,15.3539583975328,0 75.0476639702282,15.3540380853615,0 75.0475253360907,15.3540001362788,0 75.0475469844622,15.3539207290909,0 75.047688330255,15.3539583975328,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.19">
+			<name>19</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">19</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">AA</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0477682469449,15.3539799975446,0 75.0479062042381,15.3540178344274,0 75.0478845331188,15.3540984536523,0 75.0477457145553,15.3540598023347,0 75.0477682469449,15.3539799975446,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.20">
+			<name>20</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">20</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">AC</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04786224266719,15.3541814276935,0 75.0477220659687,15.3541436103924,0 75.0477457145553,15.3540598023347,0 75.0478845331188,15.3540984536523,0 75.04786224266719,15.3541814276935,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.21">
+			<name>21</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">21</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">AE</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0480179657866,15.3541355985309,0 75.0479942485407,15.3542170338796,0 75.04786224266719,15.3541814276935,0 75.0478845331188,15.3540984536523,0 75.0480179657866,15.3541355985309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.22">
+			<name>22</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">22</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">B0</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0480414757851,15.3540549275002,0 75.0480179657866,15.3541355985309,0 75.0478845331188,15.3540984536523,0 75.0479062042381,15.3540178344274,0 75.0480414757851,15.3540549275002,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.23">
+			<name>23</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">23</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">B2</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0482404205591,15.3541923892539,0 75.04810218006151,15.3541551523365,0 75.04812508590921,15.354075409719,0 75.04826267088249,15.3541134977744,0 75.0482404205591,15.3541923892539,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.24">
+			<name>24</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">24</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">B4</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0482168061905,15.3542761769379,0 75.04807812789799,15.3542389430256,0 75.04810218006151,15.3541551523365,0 75.0482404205591,15.3541923892539,0 75.0482168061905,15.3542761769379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.25">
+			<name>25</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">25</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">B6</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0483933141731,15.3542335652322,0 75.04836907260641,15.3543170516418,0 75.0482168061905,15.3542761769379,0 75.0482404205591,15.3541923892539,0 75.0483933141731,15.3542335652322,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.26">
+			<name>26</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">26</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">B8</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04841588100651,15.354155903447,0 75.0483933141731,15.3542335652322,0 75.0482404205591,15.3541923892539,0 75.04826267088249,15.3541134977744,0 75.04841588100651,15.354155903447,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.27">
+			<name>27</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">27</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">BA</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04932361526279,15.3541706102287,0 75.0493318605244,15.3543151886846,0 75.0492218239489,15.3542858693844,0 75.04926204863941,15.3541543159671,0 75.04932361526279,15.3541706102287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.28">
+			<name>28</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">28</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">BC</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0491395539553,15.3542639478961,0 75.0490577513972,15.3542421502364,0 75.04909486249529,15.3541100658038,0 75.0491786463508,15.3541322419604,0 75.0491395539553,15.3542639478961,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.29">
+			<name>29</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">29</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">BE</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0491786463508,15.3541322419604,0 75.04926204863941,15.3541543159671,0 75.0492218239489,15.3542858693844,0 75.0491395539553,15.3542639478961,0 75.0491786463508,15.3541322419604,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.30">
+			<name>30</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">30</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">C0</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0490577513972,15.3542421502364,0 75.0489989788037,15.354226488525,0 75.04897138983721,15.3540773821205,0 75.04909486249529,15.3541100658038,0 75.0490577513972,15.3542421502364,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.31">
+			<name>31</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">31</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">C2</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0488793972907,15.3540509132355,0 75.048905828036,15.3542012052339,0 75.04875038886379,15.3541593855322,0 75.048791702621,15.3540272941455,0 75.0488793972907,15.3540509132355,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.32">
+			<name>32</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">32</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">C4</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.048791702621,15.3540272941455,0 75.04875038886379,15.3541593855322,0 75.0486663951848,15.3541367849025,0 75.04870915931041,15.3540050603509,0 75.048791702621,15.3540272941455,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.33">
+			<name>33</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">33</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">C6</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04870915931041,15.3540050603509,0 75.0486663951848,15.3541367849025,0 75.04858550501559,15.3541150173398,0 75.04862433315139,15.3539822093242,0 75.04870915931041,15.3540050603509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.34">
+			<name>34</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">34</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">C8</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04862433315139,15.3539822093242,0 75.04858550501559,15.3541150173398,0 75.048504552363,15.3540932308619,0 75.0485418441576,15.3539599854913,0 75.04862433315139,15.3539822093242,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.35">
+			<name>35</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">35</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">CA</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0485418441576,15.3539599854913,0 75.048504552363,15.3540932308619,0 75.04841834049731,15.3540700264756,0 75.0484602950267,15.3539380124556,0 75.0485418441576,15.3539599854913,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.36">
+			<name>36</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">36</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">CC</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0484602950267,15.3539380124556,0 75.04841834049731,15.3540700264756,0 75.04833768489149,15.3540483152057,0 75.0483755656298,15.3539151799301,0 75.0484602950267,15.3539380124556,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.37">
+			<name>37</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">37</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">CE</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0483755656298,15.3539151799301,0 75.04833768489149,15.3540483152057,0 75.048257327426,15.3540266818869,0 75.04829537468081,15.3538935679489,0 75.0483755656298,15.3539151799301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.38">
+			<name>38</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">38</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">D0</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04829537468081,15.3538935679489,0 75.048257327426,15.3540266818869,0 75.0481746627687,15.3540044249594,0 75.0482109107182,15.3538708017011,0 75.04829537468081,15.3538935679489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.39">
+			<name>39</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">39</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">D2</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0482109107182,15.3538708017011,0 75.0481746627687,15.3540044249594,0 75.04809192885929,15.3539821467956,0 75.048131855957,15.3538494908843,0 75.0482109107182,15.3538708017011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.40">
+			<name>40</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">40</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">D4</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.048131855957,15.3538494908843,0 75.04809192885929,15.3539821467956,0 75.0480115099148,15.3539604894823,0 75.048048521414,15.3538270238802,0 75.048131855957,15.3538494908843,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.41">
+			<name>41</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">41</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">D6</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.048048521414,15.3538270238802,0 75.0480115099148,15.3539604894823,0 75.0479253817152,15.3539372918846,0 75.0479652265835,15.3538045648188,0 75.048048521414,15.3538270238802,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.42">
+			<name>42</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">42</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">D8</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0479652265835,15.3538045648188,0 75.0479253817152,15.3539372918846,0 75.04784427761111,15.353915444825,0 75.0478829772207,15.3537823849374,0 75.0479652265835,15.3538045648188,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.43">
+			<name>43</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">43</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">DA</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0478829772207,15.3537823849374,0 75.04784427761111,15.353915444825,0 75.04776275693931,15.3538934829829,0 75.04780198091601,15.3537605402847,0 75.0478829772207,15.3537823849374,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.44">
+			<name>44</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">44</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">DC</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04780198091601,15.3537605402847,0 75.04776275693931,15.3538934829829,0 75.0476818700857,15.3538716892071,0 75.0477190321852,15.3537381666031,0 75.04780198091601,15.3537605402847,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.45">
+			<name>45</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">45</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">DE</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0477190321852,15.3537381666031,0 75.0476818700857,15.3538716892071,0 75.04759868295,15.3538492729982,0 75.0476359119009,15.3537157437712,0 75.0477190321852,15.3537381666031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.46">
+			<name>46</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">46</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">E0</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0476359119009,15.3537157437712,0 75.04759868295,15.3538492729982,0 75.04751337184121,15.3538262815378,0 75.04755393766401,15.3536936275153,0 75.0476359119009,15.3537157437712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.47">
+			<name>47</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">47</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">E2</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04751337184121,15.3538262815378,0 75.04743405715941,15.3538049036799,0 75.0474707622588,15.3536711843325,0 75.04755393766401,15.3536936275153,0 75.04751337184121,15.3538262815378,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.48">
+			<name>48</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">48</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">E4</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04738757205359,15.3536485890565,0 75.0473502955258,15.3537817495817,0 75.04724110211831,15.3537522014898,0 75.0472784651287,15.3536190449675,0 75.04738757205359,15.3536485890565,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.49">
+			<name>49</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">49</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">E6</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0472784651287,15.3536190449675,0 75.04724110211831,15.3537522014898,0 75.04715593786131,15.3537291524025,0 75.0471970604795,15.3535969991347,0 75.0472784651287,15.3536190449675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.50">
+			<name>50</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">50</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">E8</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0471970604795,15.3535969991347,0 75.04715593786131,15.3537291524025,0 75.04707585142771,15.353707475046,0 75.0471135452601,15.3535743792373,0 75.0471970604795,15.3535969991347,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.51">
+			<name>51</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">51</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">EA</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0471135452601,15.3535743792373,0 75.04707585142771,15.353707475046,0 75.0469928769833,15.3536850133886,0 75.0470317509097,15.3535522226638,0 75.0471135452601,15.3535743792373,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.52">
+			<name>52</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">52</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">EC</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0470317509097,15.3535522226638,0 75.0469928769833,15.3536850133886,0 75.04691169975879,15.3536630355366,0 75.0469494402372,15.3535299238064,0 75.0470317509097,15.3535522226638,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.53">
+			<name>53</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">53</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">EE</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0469494402372,15.3535299238064,0 75.04691169975879,15.3536630355366,0 75.0468295251562,15.353640785303,0 75.0468683507991,15.353507953348,0 75.0469494402372,15.3535299238064,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.54">
+			<name>54</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">54</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">F0</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0468683507991,15.353507953348,0 75.0468295251562,15.353640785303,0 75.0467483539221,15.3536188041401,0 75.0467849721184,15.3534853600215,0 75.0468683507991,15.353507953348,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.55">
+			<name>55</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">55</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">F2</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0467849721184,15.3534853600215,0 75.0467483539221,15.3536188041401,0 75.0466647253067,15.3535961547097,0 75.04670301705001,15.353463149965,0 75.0467849721184,15.3534853600215,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.56">
+			<name>56</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">56</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">F4</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04670301705001,15.353463149965,0 75.0466647253067,15.3535961547097,0 75.04658288256719,15.3535739864954,0 75.046620326564,15.3534407380644,0 75.04670301705001,15.353463149965,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.57">
+			<name>57</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">57</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">F6</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0465356490793,15.3534177852186,0 75.046620326564,15.3534407380644,0 75.04658288256719,15.3535739864954,0 75.0465005237004,15.3535516759424,0 75.0465356490793,15.3534177852186,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.58">
+			<name>58</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">58</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">F8</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0458868653118,15.3532414681681,0 75.045850140594,15.3533743144036,0 75.0457690582559,15.353352114775,0 75.0458051729854,15.3532188830358,0 75.0458868653118,15.3532414681681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.59">
+			<name>59</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">59</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">FA</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0458051729854,15.3532188830358,0 75.0457690582559,15.353352114775,0 75.0456853102698,15.3533291841495,0 75.0457225095369,15.3531960288217,0 75.0458051729854,15.3532188830358,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.60">
+			<name>60</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">60</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">FC</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.0457225095369,15.3531960288217,0 75.0456853102698,15.3533291841495,0 75.0456029018995,15.3533066199634,0 75.04563895967431,15.3531729292285,0 75.0457225095369,15.3531960288217,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.61">
+			<name>61</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">61</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">FE</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04563895967431,15.3531729292285,0 75.0456029018995,15.3533066199634,0 75.04551885980371,15.3532836081761,0 75.0455560631468,15.3531500103141,0 75.04563895967431,15.3531729292285,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="newgenhomes_tarihal01_onmaps_modified.62">
+			<name>62</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
+					<SimpleData name="fid">62</SimpleData>
+					<SimpleData name="Layer">Layer 12</SimpleData>
+					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+					<SimpleData name="EntityHandle">100</SimpleData>
+					<SimpleData name="Text">SOLID</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							75.04551885980371,15.3532836081761,0 75.0453716229472,15.353243293875,0 75.04543937664501,15.3531177498491,0 75.0455560631468,15.3531500103141,0 75.04551885980371,15.3532836081761,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<GroundOverlay>
+			<name>Untitled Image Overlay</name>
+			<Icon>
+				<href>https://raw.githubusercontent.com/KamalPurohit/Images/main/SrGardenia.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>15.35599190924644</north>
+				<south>15.35167064588771</south>
+				<east>75.04836078077572</east>
+				<west>75.04629162266112</west>
+				<rotation>-270.3813171386719</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Start</name>
+			<LookAt>
+				<longitude>75.04573645645853</longitude>
+				<latitude>15.35416715260317</latitude>
+				<altitude>0</altitude>
+				<heading>0.007723492484021728</heading>
+				<tilt>39.36494748275864</tilt>
+				<range>356.1882914751284</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>75.04520817984869,15.35373305605464,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Folder>
+</Document>
+</kml>
