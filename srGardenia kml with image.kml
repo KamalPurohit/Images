@@ -1,1888 +1,2213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>srGardenia kml with image.kml</name>
-	<Schema name="newgenhomes_tarihal01_onmaps_modified" id="newgenhomes_tarihal01_onmaps_modified">
-		<SimpleField type="float" name="fid">
-		</SimpleField>
-		<SimpleField type="string" name="Layer">
-		</SimpleField>
-		<SimpleField type="int" name="PaperSpace">
-		</SimpleField>
-		<SimpleField type="string" name="SubClasses">
-		</SimpleField>
-		<SimpleField type="string" name="Linetype">
-		</SimpleField>
-		<SimpleField type="string" name="EntityHandle">
-		</SimpleField>
-		<SimpleField type="string" name="Text">
-		</SimpleField>
-	</Schema>
-	<StyleMap id="m_ylw-pushpin">
+	<name>newgenhomes_tarihal01_onmaps_modified</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<StyleMap id="icon-1899-DB4436">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
+			<styleUrl>#icon-1899-DB4436-normal</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			<styleUrl>#icon-1899-DB4436-highlight</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin">
+	<Style id="icon-1899-DB4436-highlight">
 		<IconStyle>
-			<scale>1.2</scale>
+			<color>ff3644db</color>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
+		<LabelStyle>
+		</LabelStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl">
+	<Style id="icon-1899-DB4436-normal">
 		<IconStyle>
-			<scale>1.4</scale>
+			<color>ff3644db</color>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
 	</Style>
-	<Folder>
-		<name>newgenhomes_tarihal01_onmaps_modified</name>
-		<open>1</open>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.2">
-			<name>1</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">2</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">88</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0454218327851,15.3535291309919,0 75.04523894489429,15.3534796862201,0 75.0452859833689,15.3533923289687,0 75.0454479499238,15.353435474052,0 75.0454218327851,15.3535291309919,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.1">
-			<name>2</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">1</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">86</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0454702036684,15.3533557247439,0 75.0454479499238,15.353435474052,0 75.0452859833689,15.3533923289687,0 75.04532754857649,15.3533151766312,0 75.0454702036684,15.3533557247439,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.3">
-			<name>3</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">3</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">8A</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0456091072549,15.3533952068745,0 75.0455604385195,15.3535666028117,0 75.0454218327851,15.3535291309919,0 75.0454702036684,15.3533557247439,0 75.0456091072549,15.3533952068745,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.4">
-			<name>4</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">4</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">8C</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0457814164443,15.3536249096832,0 75.0458271663709,15.3534541556332,0 75.0456906407785,15.3534161526238,0 75.0456443657005,15.3535886806625,0 75.0457814164443,15.3536249096832,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.5">
-			<name>5</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">5</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">8E</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04656640090469,15.3538341614275,0 75.0464301173805,15.3537980069483,0 75.0464558632581,15.3537102040395,0 75.04659276642209,15.3537479094697,0 75.04656640090469,15.3538341614275,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.6">
-			<name>6</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">6</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">90</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04661679227451,15.353669359819,0 75.04659276642209,15.3537479094697,0 75.0464558632581,15.3537102040395,0 75.0464786311621,15.3536326059958,0 75.04661679227451,15.353669359819,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.7">
-			<name>7</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">7</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">92</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04669761493621,15.3536902576391,0 75.04683672091591,15.3537283816989,0 75.04681450659869,15.3538054373473,0 75.0466760525419,15.3537674911103,0 75.04669761493621,15.3536902576391,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.8">
-			<name>8</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">8</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">94</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0467887063437,15.353894985267,0 75.0466508224949,15.3538579169111,0 75.0466760525419,15.3537674911103,0 75.04681450659869,15.3538054373473,0 75.0467887063437,15.353894985267,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.9">
-			<name>9</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">9</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">96</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0469496397595,15.3538424662441,0 75.0469238525294,15.3539313103134,0 75.0467887063437,15.353894985267,0 75.04681450659869,15.3538054373473,0 75.0469496397595,15.3538424662441,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.10">
-			<name>10</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">10</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">98</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0469720067051,15.3537654512744,0 75.0469496397595,15.3538424662441,0 75.04681450659869,15.3538054373473,0 75.04683672091591,15.3537283816989,0 75.0469720067051,15.3537654512744,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.11">
-			<name>11</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">11</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">9A</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0471698581535,15.3539027946168,0 75.0470316248835,15.3538649282088,0 75.0470533831033,15.3537868999156,0 75.04719119674201,15.3538251461458,0 75.0471698581535,15.3539027946168,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.12">
-			<name>12</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">12</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">9C</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0471458314106,15.3539902745375,0 75.04700699480409,15.3539533050634,0 75.0470316248835,15.3538649282088,0 75.0471698581535,15.3539027946168,0 75.0471458314106,15.3539902745375,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.13">
-			<name>13</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">13</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">9E</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0473065210236,15.3539402233529,0 75.0472822401248,15.354026590002,0 75.0471458314106,15.3539902745375,0 75.0471698581535,15.3539027946168,0 75.0473065210236,15.3539402233529,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.14">
-			<name>14</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">14</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">A0</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0473281983771,15.3538631596896,0 75.0473065210236,15.3539402233529,0 75.0471698581535,15.3539027946168,0 75.04719119674201,15.3538251461458,0 75.0473281983771,15.3538631596896,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.15">
-			<name>15</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">15</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">A2</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0475253360907,15.3540001362788,0 75.0473887370141,15.353962736787,0 75.04741132214529,15.3538845677617,0 75.0475469844622,15.3539207290909,0 75.0475253360907,15.3540001362788,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.16">
-			<name>16</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">16</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">A4</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0475022583709,15.3540848340272,0 75.0473641200789,15.3540479872186,0 75.0473887370141,15.353962736787,0 75.0475253360907,15.3540001362788,0 75.0475022583709,15.3540848340272,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.17">
-			<name>17</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">17</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">A6</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0476639702282,15.3540380853615,0 75.0476385806701,15.3541211891413,0 75.0475022583709,15.3540848340272,0 75.0475253360907,15.3540001362788,0 75.0476639702282,15.3540380853615,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.18">
-			<name>18</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">18</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">A8</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.047688330255,15.3539583975328,0 75.0476639702282,15.3540380853615,0 75.0475253360907,15.3540001362788,0 75.0475469844622,15.3539207290909,0 75.047688330255,15.3539583975328,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.19">
-			<name>19</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">19</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">AA</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0477682469449,15.3539799975446,0 75.0479062042381,15.3540178344274,0 75.0478845331188,15.3540984536523,0 75.0477457145553,15.3540598023347,0 75.0477682469449,15.3539799975446,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.20">
-			<name>20</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">20</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">AC</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04786224266719,15.3541814276935,0 75.0477220659687,15.3541436103924,0 75.0477457145553,15.3540598023347,0 75.0478845331188,15.3540984536523,0 75.04786224266719,15.3541814276935,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.21">
-			<name>21</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">21</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">AE</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0480179657866,15.3541355985309,0 75.0479942485407,15.3542170338796,0 75.04786224266719,15.3541814276935,0 75.0478845331188,15.3540984536523,0 75.0480179657866,15.3541355985309,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.22">
-			<name>22</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">22</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">B0</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0480414757851,15.3540549275002,0 75.0480179657866,15.3541355985309,0 75.0478845331188,15.3540984536523,0 75.0479062042381,15.3540178344274,0 75.0480414757851,15.3540549275002,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.23">
-			<name>23</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">23</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">B2</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0482404205591,15.3541923892539,0 75.04810218006151,15.3541551523365,0 75.04812508590921,15.354075409719,0 75.04826267088249,15.3541134977744,0 75.0482404205591,15.3541923892539,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.24">
-			<name>24</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">24</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">B4</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0482168061905,15.3542761769379,0 75.04807812789799,15.3542389430256,0 75.04810218006151,15.3541551523365,0 75.0482404205591,15.3541923892539,0 75.0482168061905,15.3542761769379,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.25">
-			<name>25</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">25</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">B6</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0483933141731,15.3542335652322,0 75.04836907260641,15.3543170516418,0 75.0482168061905,15.3542761769379,0 75.0482404205591,15.3541923892539,0 75.0483933141731,15.3542335652322,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.26">
-			<name>26</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">26</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">B8</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04841588100651,15.354155903447,0 75.0483933141731,15.3542335652322,0 75.0482404205591,15.3541923892539,0 75.04826267088249,15.3541134977744,0 75.04841588100651,15.354155903447,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.27">
-			<name>27</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">27</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">BA</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04932361526279,15.3541706102287,0 75.0493318605244,15.3543151886846,0 75.0492218239489,15.3542858693844,0 75.04926204863941,15.3541543159671,0 75.04932361526279,15.3541706102287,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.28">
-			<name>28</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">28</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">BC</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0491395539553,15.3542639478961,0 75.0490577513972,15.3542421502364,0 75.04909486249529,15.3541100658038,0 75.0491786463508,15.3541322419604,0 75.0491395539553,15.3542639478961,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.29">
-			<name>29</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">29</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">BE</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0491786463508,15.3541322419604,0 75.04926204863941,15.3541543159671,0 75.0492218239489,15.3542858693844,0 75.0491395539553,15.3542639478961,0 75.0491786463508,15.3541322419604,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.30">
-			<name>30</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">30</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">C0</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0490577513972,15.3542421502364,0 75.0489989788037,15.354226488525,0 75.04897138983721,15.3540773821205,0 75.04909486249529,15.3541100658038,0 75.0490577513972,15.3542421502364,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.31">
-			<name>31</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">31</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">C2</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0488793972907,15.3540509132355,0 75.048905828036,15.3542012052339,0 75.04875038886379,15.3541593855322,0 75.048791702621,15.3540272941455,0 75.0488793972907,15.3540509132355,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.32">
-			<name>32</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">32</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">C4</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.048791702621,15.3540272941455,0 75.04875038886379,15.3541593855322,0 75.0486663951848,15.3541367849025,0 75.04870915931041,15.3540050603509,0 75.048791702621,15.3540272941455,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.33">
-			<name>33</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">33</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">C6</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04870915931041,15.3540050603509,0 75.0486663951848,15.3541367849025,0 75.04858550501559,15.3541150173398,0 75.04862433315139,15.3539822093242,0 75.04870915931041,15.3540050603509,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.34">
-			<name>34</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">34</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">C8</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04862433315139,15.3539822093242,0 75.04858550501559,15.3541150173398,0 75.048504552363,15.3540932308619,0 75.0485418441576,15.3539599854913,0 75.04862433315139,15.3539822093242,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.35">
-			<name>35</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">35</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">CA</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0485418441576,15.3539599854913,0 75.048504552363,15.3540932308619,0 75.04841834049731,15.3540700264756,0 75.0484602950267,15.3539380124556,0 75.0485418441576,15.3539599854913,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.36">
-			<name>36</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">36</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">CC</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0484602950267,15.3539380124556,0 75.04841834049731,15.3540700264756,0 75.04833768489149,15.3540483152057,0 75.0483755656298,15.3539151799301,0 75.0484602950267,15.3539380124556,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.37">
-			<name>37</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">37</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">CE</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0483755656298,15.3539151799301,0 75.04833768489149,15.3540483152057,0 75.048257327426,15.3540266818869,0 75.04829537468081,15.3538935679489,0 75.0483755656298,15.3539151799301,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.38">
-			<name>38</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">38</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">D0</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04829537468081,15.3538935679489,0 75.048257327426,15.3540266818869,0 75.0481746627687,15.3540044249594,0 75.0482109107182,15.3538708017011,0 75.04829537468081,15.3538935679489,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.39">
-			<name>39</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">39</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">D2</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0482109107182,15.3538708017011,0 75.0481746627687,15.3540044249594,0 75.04809192885929,15.3539821467956,0 75.048131855957,15.3538494908843,0 75.0482109107182,15.3538708017011,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.40">
-			<name>40</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">40</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">D4</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.048131855957,15.3538494908843,0 75.04809192885929,15.3539821467956,0 75.0480115099148,15.3539604894823,0 75.048048521414,15.3538270238802,0 75.048131855957,15.3538494908843,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.41">
-			<name>41</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">41</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">D6</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.048048521414,15.3538270238802,0 75.0480115099148,15.3539604894823,0 75.0479253817152,15.3539372918846,0 75.0479652265835,15.3538045648188,0 75.048048521414,15.3538270238802,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.42">
-			<name>42</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">42</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">D8</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0479652265835,15.3538045648188,0 75.0479253817152,15.3539372918846,0 75.04784427761111,15.353915444825,0 75.0478829772207,15.3537823849374,0 75.0479652265835,15.3538045648188,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.43">
-			<name>43</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">43</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">DA</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0478829772207,15.3537823849374,0 75.04784427761111,15.353915444825,0 75.04776275693931,15.3538934829829,0 75.04780198091601,15.3537605402847,0 75.0478829772207,15.3537823849374,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.44">
-			<name>44</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">44</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">DC</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04780198091601,15.3537605402847,0 75.04776275693931,15.3538934829829,0 75.0476818700857,15.3538716892071,0 75.0477190321852,15.3537381666031,0 75.04780198091601,15.3537605402847,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.45">
-			<name>45</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">45</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">DE</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0477190321852,15.3537381666031,0 75.0476818700857,15.3538716892071,0 75.04759868295,15.3538492729982,0 75.0476359119009,15.3537157437712,0 75.0477190321852,15.3537381666031,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.46">
-			<name>46</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">46</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">E0</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0476359119009,15.3537157437712,0 75.04759868295,15.3538492729982,0 75.04751337184121,15.3538262815378,0 75.04755393766401,15.3536936275153,0 75.0476359119009,15.3537157437712,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.47">
-			<name>47</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">47</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">E2</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04751337184121,15.3538262815378,0 75.04743405715941,15.3538049036799,0 75.0474707622588,15.3536711843325,0 75.04755393766401,15.3536936275153,0 75.04751337184121,15.3538262815378,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.48">
-			<name>48</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">48</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">E4</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04738757205359,15.3536485890565,0 75.0473502955258,15.3537817495817,0 75.04724110211831,15.3537522014898,0 75.0472784651287,15.3536190449675,0 75.04738757205359,15.3536485890565,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.49">
-			<name>49</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">49</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">E6</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0472784651287,15.3536190449675,0 75.04724110211831,15.3537522014898,0 75.04715593786131,15.3537291524025,0 75.0471970604795,15.3535969991347,0 75.0472784651287,15.3536190449675,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.50">
-			<name>50</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">50</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">E8</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0471970604795,15.3535969991347,0 75.04715593786131,15.3537291524025,0 75.04707585142771,15.353707475046,0 75.0471135452601,15.3535743792373,0 75.0471970604795,15.3535969991347,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.51">
-			<name>51</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">51</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">EA</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0471135452601,15.3535743792373,0 75.04707585142771,15.353707475046,0 75.0469928769833,15.3536850133886,0 75.0470317509097,15.3535522226638,0 75.0471135452601,15.3535743792373,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.52">
-			<name>52</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">52</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">EC</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0470317509097,15.3535522226638,0 75.0469928769833,15.3536850133886,0 75.04691169975879,15.3536630355366,0 75.0469494402372,15.3535299238064,0 75.0470317509097,15.3535522226638,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.53">
-			<name>53</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">53</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">EE</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0469494402372,15.3535299238064,0 75.04691169975879,15.3536630355366,0 75.0468295251562,15.353640785303,0 75.0468683507991,15.353507953348,0 75.0469494402372,15.3535299238064,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.54">
-			<name>54</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">54</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">F0</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0468683507991,15.353507953348,0 75.0468295251562,15.353640785303,0 75.0467483539221,15.3536188041401,0 75.0467849721184,15.3534853600215,0 75.0468683507991,15.353507953348,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.55">
-			<name>55</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">55</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">F2</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0467849721184,15.3534853600215,0 75.0467483539221,15.3536188041401,0 75.0466647253067,15.3535961547097,0 75.04670301705001,15.353463149965,0 75.0467849721184,15.3534853600215,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.56">
-			<name>56</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">56</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">F4</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04670301705001,15.353463149965,0 75.0466647253067,15.3535961547097,0 75.04658288256719,15.3535739864954,0 75.046620326564,15.3534407380644,0 75.04670301705001,15.353463149965,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.57">
-			<name>57</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">57</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">F6</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0465356490793,15.3534177852186,0 75.046620326564,15.3534407380644,0 75.04658288256719,15.3535739864954,0 75.0465005237004,15.3535516759424,0 75.0465356490793,15.3534177852186,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.58">
-			<name>58</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">58</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">F8</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0458868653118,15.3532414681681,0 75.045850140594,15.3533743144036,0 75.0457690582559,15.353352114775,0 75.0458051729854,15.3532188830358,0 75.0458868653118,15.3532414681681,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.59">
-			<name>59</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">59</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">FA</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0458051729854,15.3532188830358,0 75.0457690582559,15.353352114775,0 75.0456853102698,15.3533291841495,0 75.0457225095369,15.3531960288217,0 75.0458051729854,15.3532188830358,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.60">
-			<name>60</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">60</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">FC</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.0457225095369,15.3531960288217,0 75.0456853102698,15.3533291841495,0 75.0456029018995,15.3533066199634,0 75.04563895967431,15.3531729292285,0 75.0457225095369,15.3531960288217,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.61">
-			<name>61</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">61</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">FE</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04563895967431,15.3531729292285,0 75.0456029018995,15.3533066199634,0 75.04551885980371,15.3532836081761,0 75.0455560631468,15.3531500103141,0 75.04563895967431,15.3531729292285,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark id="newgenhomes_tarihal01_onmaps_modified.62">
-			<name>62</name>
-			<Style>
-				<LineStyle>
-					<color>ff0000ff</color>
-				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
-			</Style>
-			<ExtendedData>
-				<SchemaData schemaUrl="#newgenhomes_tarihal01_onmaps_modified">
-					<SimpleData name="fid">62</SimpleData>
-					<SimpleData name="Layer">Layer 12</SimpleData>
-					<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
-					<SimpleData name="EntityHandle">100</SimpleData>
-					<SimpleData name="Text">SOLID</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							75.04551885980371,15.3532836081761,0 75.0453716229472,15.353243293875,0 75.04543937664501,15.3531177498491,0 75.0455560631468,15.3531500103141,0 75.04551885980371,15.3532836081761,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<GroundOverlay>
-			<name>Untitled Image Overlay</name>
-			<Icon>
-				<href>https://raw.githubusercontent.com/KamalPurohit/Images/main/SrGardenia.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>15.35599190924644</north>
-				<south>15.35167064588771</south>
-				<east>75.04836078077572</east>
-				<west>75.04629162266112</west>
-				<rotation>-270.3813171386719</rotation>
-			</LatLonBox>
-		</GroundOverlay>
-		<Placemark>
-			<name>Start</name>
-			<LookAt>
-				<longitude>75.04573645645853</longitude>
-				<latitude>15.35416715260317</latitude>
-				<altitude>0</altitude>
-				<heading>0.007723492484021728</heading>
-				<tilt>39.36494748275864</tilt>
-				<range>356.1882914751284</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>75.04520817984869,15.35373305605464,0</coordinates>
-			</Point>
-		</Placemark>
-		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
-	</Folder>
+	<StyleMap id="poly-FF0000-1000-0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-FF0000-1000-0-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-FF0000-1000-0-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-FF0000-1000-0-highlight">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>000000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-FF0000-1000-0-normal">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>000000ff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>1</name>
+		<description><![CDATA[description: <br>fid: 2<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 88<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>2</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>88</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.045422,15.353529,0 75.045239,15.35348,0 75.045286,15.353392,0 75.04544799999999,15.353435,0 75.045422,15.353529,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>2</name>
+		<description><![CDATA[description: <br>fid: 1<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 86<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>1</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>86</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04546999999999,15.353356,0 75.04544799999999,15.353435,0 75.045286,15.353392,0 75.045328,15.353315,0 75.04546999999999,15.353356,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>3</name>
+		<description><![CDATA[description: <br>fid: 3<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 8A<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>3</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>8A</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.045609,15.353395,0 75.04555999999999,15.353567,0 75.045422,15.353529,0 75.04546999999999,15.353356,0 75.045609,15.353395,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>4</name>
+		<description><![CDATA[description: <br>fid: 4<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 8C<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>4</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>8C</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04578100000001,15.353625,0 75.045644,15.353589,0 75.04569100000001,15.353416,0 75.045827,15.353454,0 75.04578100000001,15.353625,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>5</name>
+		<description><![CDATA[description: <br>fid: 5<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 8E<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>5</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>8E</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046566,15.353834,0 75.04643,15.353798,0 75.04645600000001,15.35371,0 75.046593,15.353748,0 75.046566,15.353834,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>6</name>
+		<description><![CDATA[description: <br>fid: 6<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 90<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>6</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>90</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046617,15.353669,0 75.046593,15.353748,0 75.04645600000001,15.35371,0 75.04647900000001,15.353633,0 75.046617,15.353669,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>7</name>
+		<description><![CDATA[description: <br>fid: 7<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 92<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>7</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>92</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04669800000001,15.35369,0 75.046837,15.353728,0 75.046815,15.353805,0 75.04667600000001,15.353767,0 75.04669800000001,15.35369,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>8</name>
+		<description><![CDATA[description: <br>fid: 8<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 94<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>8</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>94</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046789,15.353895,0 75.046651,15.353858,0 75.04667600000001,15.353767,0 75.046815,15.353805,0 75.046789,15.353895,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<description><![CDATA[description: <br>fid: 9<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 96<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>9</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>96</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04695,15.353842,0 75.046924,15.353931,0 75.046789,15.353895,0 75.046815,15.353805,0 75.04695,15.353842,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<description><![CDATA[description: <br>fid: 10<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 98<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>10</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>98</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046972,15.353765,0 75.04695,15.353842,0 75.046815,15.353805,0 75.046837,15.353728,0 75.046972,15.353765,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<description><![CDATA[description: <br>fid: 11<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 9A<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>11</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>9A</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04716999999999,15.353903,0 75.047032,15.353865,0 75.04705300000001,15.353787,0 75.047191,15.353825,0 75.04716999999999,15.353903,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>12</name>
+		<description><![CDATA[description: <br>fid: 12<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 9C<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>12</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>9C</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047146,15.35399,0 75.04700699999999,15.353953,0 75.047032,15.353865,0 75.04716999999999,15.353903,0 75.047146,15.35399,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>13</name>
+		<description><![CDATA[description: <br>fid: 13<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 9E<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>13</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>9E</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047307,15.35394,0 75.047282,15.354027,0 75.047146,15.35399,0 75.04716999999999,15.353903,0 75.047307,15.35394,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>14</name>
+		<description><![CDATA[description: <br>fid: 14<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A0<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>14</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A0</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04732799999999,15.353863,0 75.047307,15.35394,0 75.04716999999999,15.353903,0 75.047191,15.353825,0 75.04732799999999,15.353863,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>15</name>
+		<description><![CDATA[description: <br>fid: 15<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A2<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>15</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A2</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04752499999999,15.354,0 75.047389,15.353963,0 75.047411,15.353885,0 75.04754699999999,15.353921,0 75.04752499999999,15.354,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>16</name>
+		<description><![CDATA[description: <br>fid: 16<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A4<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>16</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A4</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04750199999999,15.354085,0 75.047364,15.354048,0 75.047389,15.353963,0 75.04752499999999,15.354,0 75.04750199999999,15.354085,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>17</name>
+		<description><![CDATA[description: <br>fid: 17<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A6<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>17</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A6</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047664,15.354038,0 75.047639,15.354121,0 75.04750199999999,15.354085,0 75.04752499999999,15.354,0 75.047664,15.354038,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>18</name>
+		<description><![CDATA[description: <br>fid: 18<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A8<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>18</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A8</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04768799999999,15.353958,0 75.047664,15.354038,0 75.04752499999999,15.354,0 75.04754699999999,15.353921,0 75.04768799999999,15.353958,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>19</name>
+		<description><![CDATA[description: <br>fid: 19<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: AA<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>19</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>AA</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047768,15.35398,0 75.047906,15.354018,0 75.04788499999999,15.354098,0 75.047746,15.35406,0 75.047768,15.35398,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>20</name>
+		<description><![CDATA[description: <br>fid: 20<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: AC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>20</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>AC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04786199999999,15.354181,0 75.04772199999999,15.354144,0 75.047746,15.35406,0 75.04788499999999,15.354098,0 75.04786199999999,15.354181,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>21</name>
+		<description><![CDATA[description: <br>fid: 21<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: AE<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>21</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>AE</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048018,15.354136,0 75.047994,15.354217,0 75.04786199999999,15.354181,0 75.04788499999999,15.354098,0 75.048018,15.354136,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>22</name>
+		<description><![CDATA[description: <br>fid: 22<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B0<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>22</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B0</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048041,15.354055,0 75.048018,15.354136,0 75.04788499999999,15.354098,0 75.047906,15.354018,0 75.048041,15.354055,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>23</name>
+		<description><![CDATA[description: <br>fid: 23<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B2<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>23</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B2</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04824000000001,15.354192,0 75.048102,15.354155,0 75.048125,15.354075,0 75.04826300000001,15.354113,0 75.04824000000001,15.354192,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>24</name>
+		<description><![CDATA[description: <br>fid: 24<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B4<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>24</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B4</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04821699999999,15.354276,0 75.048078,15.354239,0 75.048102,15.354155,0 75.04824000000001,15.354192,0 75.04821699999999,15.354276,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>25</name>
+		<description><![CDATA[description: <br>fid: 25<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B6<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>25</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B6</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048393,15.354234,0 75.04836899999999,15.354317,0 75.04821699999999,15.354276,0 75.04824000000001,15.354192,0 75.048393,15.354234,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>26</name>
+		<description><![CDATA[description: <br>fid: 26<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B8<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>26</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B8</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048416,15.354156,0 75.048393,15.354234,0 75.04824000000001,15.354192,0 75.04826300000001,15.354113,0 75.048416,15.354156,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>27</name>
+		<description><![CDATA[description: <br>fid: 27<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BA<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>27</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BA</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.049324,15.354171,0 75.04933200000001,15.354315,0 75.049222,15.354286,0 75.049262,15.354154,0 75.049324,15.354171,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>28</name>
+		<description><![CDATA[description: <br>fid: 28<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>28</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04913999999999,15.354264,0 75.049058,15.354242,0 75.04909499999999,15.35411,0 75.049179,15.354132,0 75.04913999999999,15.354264,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>29</name>
+		<description><![CDATA[description: <br>fid: 29<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BE<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>29</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BE</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.049179,15.354132,0 75.049262,15.354154,0 75.049222,15.354286,0 75.04913999999999,15.354264,0 75.049179,15.354132,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>30</name>
+		<description><![CDATA[description: <br>fid: 30<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C0<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>30</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C0</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.049058,15.354242,0 75.04899899999999,15.354226,0 75.04897099999999,15.354077,0 75.04909499999999,15.35411,0 75.049058,15.354242,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>31</name>
+		<description><![CDATA[description: <br>fid: 31<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C2<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>31</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C2</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048879,15.354051,0 75.048906,15.354201,0 75.04875,15.354159,0 75.04879200000001,15.354027,0 75.048879,15.354051,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>32</name>
+		<description><![CDATA[description: <br>fid: 32<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C4<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>32</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C4</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04879200000001,15.354027,0 75.04875,15.354159,0 75.048666,15.354137,0 75.048709,15.354005,0 75.04879200000001,15.354027,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>33</name>
+		<description><![CDATA[description: <br>fid: 33<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C6<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>33</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C6</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048709,15.354005,0 75.048666,15.354137,0 75.048586,15.354115,0 75.048624,15.353982,0 75.048709,15.354005,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>34</name>
+		<description><![CDATA[description: <br>fid: 34<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C8<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>34</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C8</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048624,15.353982,0 75.048586,15.354115,0 75.04850500000001,15.354093,0 75.048542,15.35396,0 75.048624,15.353982,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>35</name>
+		<description><![CDATA[description: <br>fid: 35<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: CA<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>35</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>CA</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048542,15.35396,0 75.04850500000001,15.354093,0 75.048418,15.35407,0 75.04846000000001,15.353938,0 75.048542,15.35396,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>36</name>
+		<description><![CDATA[description: <br>fid: 36<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: CC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>36</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>CC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04846000000001,15.353938,0 75.048418,15.35407,0 75.048338,15.354048,0 75.048376,15.353915,0 75.04846000000001,15.353938,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>37</name>
+		<description><![CDATA[description: <br>fid: 37<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: CE<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>37</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>CE</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048376,15.353915,0 75.048338,15.354048,0 75.04825700000001,15.354027,0 75.048295,15.353894,0 75.048376,15.353915,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>38</name>
+		<description><![CDATA[description: <br>fid: 38<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D0<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>38</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D0</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048295,15.353894,0 75.04825700000001,15.354027,0 75.048175,15.354004,0 75.04821099999999,15.353871,0 75.048295,15.353894,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>39</name>
+		<description><![CDATA[description: <br>fid: 39<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D2<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>39</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D2</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04821099999999,15.353871,0 75.048175,15.354004,0 75.048092,15.353982,0 75.048132,15.353849,0 75.04821099999999,15.353871,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>40</name>
+		<description><![CDATA[description: <br>fid: 40<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D4<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>40</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D4</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.048132,15.353849,0 75.048092,15.353982,0 75.048012,15.35396,0 75.04804900000001,15.353827,0 75.048132,15.353849,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>41</name>
+		<description><![CDATA[description: <br>fid: 41<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D6<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>41</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D6</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04804900000001,15.353827,0 75.048012,15.35396,0 75.04792500000001,15.353937,0 75.047965,15.353805,0 75.04804900000001,15.353827,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>42</name>
+		<description><![CDATA[description: <br>fid: 42<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D8<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>42</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D8</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047965,15.353805,0 75.04792500000001,15.353937,0 75.047844,15.353915,0 75.047883,15.353782,0 75.047965,15.353805,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>43</name>
+		<description><![CDATA[description: <br>fid: 43<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: DA<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>43</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>DA</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047883,15.353782,0 75.047844,15.353915,0 75.047763,15.353893,0 75.047802,15.353761,0 75.047883,15.353782,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>44</name>
+		<description><![CDATA[description: <br>fid: 44<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: DC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>44</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>DC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047802,15.353761,0 75.047763,15.353893,0 75.04768199999999,15.353872,0 75.047719,15.353738,0 75.047802,15.353761,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>45</name>
+		<description><![CDATA[description: <br>fid: 45<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: DE<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>45</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>DE</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047719,15.353738,0 75.04768199999999,15.353872,0 75.04759900000001,15.353849,0 75.047636,15.353716,0 75.047719,15.353738,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>46</name>
+		<description><![CDATA[description: <br>fid: 46<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E0<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>46</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E0</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047636,15.353716,0 75.04759900000001,15.353849,0 75.047513,15.353826,0 75.04755400000001,15.353694,0 75.047636,15.353716,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>47</name>
+		<description><![CDATA[description: <br>fid: 47<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E2<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>47</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E2</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047513,15.353826,0 75.047434,15.353805,0 75.047471,15.353671,0 75.04755400000001,15.353694,0 75.047513,15.353826,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>48</name>
+		<description><![CDATA[description: <br>fid: 48<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E4<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>48</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E4</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047388,15.353649,0 75.04734999999999,15.353782,0 75.047241,15.353752,0 75.04727800000001,15.353619,0 75.047388,15.353649,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>49</name>
+		<description><![CDATA[description: <br>fid: 49<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E6<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>49</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E6</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04727800000001,15.353619,0 75.047241,15.353752,0 75.047156,15.353729,0 75.047197,15.353597,0 75.04727800000001,15.353619,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>50</name>
+		<description><![CDATA[description: <br>fid: 50<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E8<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>50</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E8</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047197,15.353597,0 75.047156,15.353729,0 75.047076,15.353707,0 75.04711399999999,15.353574,0 75.047197,15.353597,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>51</name>
+		<description><![CDATA[description: <br>fid: 51<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: EA<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>51</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>EA</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04711399999999,15.353574,0 75.047076,15.353707,0 75.046993,15.353685,0 75.047032,15.353552,0 75.04711399999999,15.353574,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>52</name>
+		<description><![CDATA[description: <br>fid: 52<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: EC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>52</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>EC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.047032,15.353552,0 75.046993,15.353685,0 75.04691200000001,15.353663,0 75.046949,15.35353,0 75.047032,15.353552,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>53</name>
+		<description><![CDATA[description: <br>fid: 53<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: EE<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>53</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>EE</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046949,15.35353,0 75.04691200000001,15.353663,0 75.04683,15.353641,0 75.046868,15.353508,0 75.046949,15.35353,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>54</name>
+		<description><![CDATA[description: <br>fid: 54<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F0<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>54</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F0</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046868,15.353508,0 75.04683,15.353641,0 75.04674799999999,15.353619,0 75.046785,15.353485,0 75.046868,15.353508,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>55</name>
+		<description><![CDATA[description: <br>fid: 55<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F2<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>55</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F2</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046785,15.353485,0 75.04674799999999,15.353619,0 75.046665,15.353596,0 75.04670299999999,15.353463,0 75.046785,15.353485,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>56</name>
+		<description><![CDATA[description: <br>fid: 56<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F4<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>56</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F4</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04670299999999,15.353463,0 75.046665,15.353596,0 75.046583,15.353574,0 75.04662,15.353441,0 75.04670299999999,15.353463,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>57</name>
+		<description><![CDATA[description: <br>fid: 57<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F6<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>57</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F6</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.046536,15.353418,0 75.04662,15.353441,0 75.046583,15.353574,0 75.04650100000001,15.353552,0 75.046536,15.353418,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>58</name>
+		<description><![CDATA[description: <br>fid: 58<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F8<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>58</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F8</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04588699999999,15.353241,0 75.04585,15.353374,0 75.04576900000001,15.353352,0 75.045805,15.353219,0 75.04588699999999,15.353241,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>59</name>
+		<description><![CDATA[description: <br>fid: 59<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: FA<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>59</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>FA</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.045805,15.353219,0 75.04576900000001,15.353352,0 75.04568500000001,15.353329,0 75.045723,15.353196,0 75.045805,15.353219,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>60</name>
+		<description><![CDATA[description: <br>fid: 60<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: FC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>60</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>FC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.045723,15.353196,0 75.04568500000001,15.353329,0 75.045603,15.353307,0 75.04563899999999,15.353173,0 75.045723,15.353196,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>61</name>
+		<description><![CDATA[description: <br>fid: 61<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: FE<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>61</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>FE</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04563899999999,15.353173,0 75.045603,15.353307,0 75.045519,15.353284,0 75.045556,15.35315,0 75.04563899999999,15.353173,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>62</name>
+		<description><![CDATA[description: <br>fid: 62<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 100<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>62</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>100</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.045519,15.353284,0 75.045372,15.353243,0 75.045439,15.353118,0 75.045556,15.35315,0 75.045519,15.353284,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<GroundOverlay>
+		<name>Untitled Image Overlay</name>
+		<Icon>
+			<href>https://raw.githubusercontent.com/KamalPurohit/Images/main/SrGardenia.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>15.35599190924644</north>
+			<south>15.35167064588771</south>
+			<east>75.04836078077572</east>
+			<west>75.04629162266112</west>
+			<rotation>-270.3813171386719</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<Placemark>
+		<name>Start</name>
+		<description><![CDATA[description: <br>fid: <br>Layer: <br>SubClasses: <br>EntityHandle: <br>Text:]]></description>
+		<styleUrl>#icon-1899-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+			</Data>
+			<Data name="Layer">
+			</Data>
+			<Data name="SubClasses">
+			</Data>
+			<Data name="EntityHandle">
+			</Data>
+			<Data name="Text">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>75.045208,15.353733,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
