@@ -981,49 +981,16 @@
 			</outerBoundaryIs>
 		</Polygon>
 	</Placemark>
+	
 	<Placemark>
 		<name>28</name>
-		<description><![CDATA[description: <br>fid: 28<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BC<br>Text: SOLID]]></description>
-		<styleUrl>#poly-FF0000-1000-0</styleUrl>
-		<ExtendedData>
-			<Data name="description">
-			</Data>
-			<Data name="fid">
-				<value>28</value>
-			</Data>
-			<Data name="Layer">
-				<value>Layer 12</value>
-			</Data>
-			<Data name="SubClasses">
-				<value>AcDbEntity:AcDbHatch</value>
-			</Data>
-			<Data name="EntityHandle">
-				<value>BC</value>
-			</Data>
-			<Data name="Text">
-				<value>SOLID</value>
-			</Data>
-		</ExtendedData>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<tessellate>1</tessellate>
-					<coordinates>
-						75.04913999999999,15.354264,0 75.049058,15.354242,0 75.04909499999999,15.35411,0 75.049179,15.354132,0 75.04913999999999,15.354264,0 
-					</coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>29</name>
 		<description><![CDATA[description: <br>fid: 29<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BE<br>Text: SOLID]]></description>
 		<styleUrl>#poly-FF0000-1000-0</styleUrl>
 		<ExtendedData>
 			<Data name="description">
 			</Data>
 			<Data name="fid">
-				<value>29</value>
+				<value>28</value>
 			</Data>
 			<Data name="Layer">
 				<value>Layer 12</value>
@@ -1044,6 +1011,40 @@
 					<tessellate>1</tessellate>
 					<coordinates>
 						75.049179,15.354132,0 75.049262,15.354154,0 75.049222,15.354286,0 75.04913999999999,15.354264,0 75.049179,15.354132,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+<Placemark>
+		<name>29</name>
+		<description><![CDATA[description: <br>fid: 28<br>Layer: Layer 12<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BC<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FF0000-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>29</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 12</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BC</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.04913999999999,15.354264,0 75.049058,15.354242,0 75.04909499999999,15.35411,0 75.049179,15.354132,0 75.04913999999999,15.354264,0 
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
