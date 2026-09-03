@@ -1,0 +1,6905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>plots_only_modified</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+	<StyleMap id="icon-1899-DB4436">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-DB4436-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-DB4436-highlight">
+		<IconStyle>
+			<color>ff3644db</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-DB4436-normal">
+		<IconStyle>
+			<color>ff3644db</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="poly-FFFFFF-1000-0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-FFFFFF-1000-0-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-FFFFFF-1000-0-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-FFFFFF-1000-0-highlight">
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-FFFFFF-1000-0-normal">
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>1</name>
+		<description><![CDATA[description: <br>fid: 3<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 81<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>3</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>81</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021423,15.414751,0 75.021522,15.414697,0 75.02172400000001,15.414864,0 75.021547,15.415075,0 75.021423,15.414751,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>2</name>
+		<description><![CDATA[description: <br>fid: 2<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 7F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>2</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>7F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02164999999999,15.415345,0 75.021547,15.415075,0 75.021627,15.41498,0 75.021827,15.415134,0 75.02164999999999,15.415345,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>3</name>
+		<description><![CDATA[description: <br>fid: 1<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 7D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>1</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>7D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021919,15.415025,0 75.021827,15.415134,0 75.021627,15.41498,0 75.02172400000001,15.414864,0 75.021919,15.415025,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>5</name>
+		<description><![CDATA[description: <br>fid: 4<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 83<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>4</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>83</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022463,15.414506,0 75.02255599999999,15.414395,0 75.022637,15.414473,0 75.02255100000001,15.414576,0 75.022463,15.414506,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>6</name>
+		<description><![CDATA[description: <br>fid: 5<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 85<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>5</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>85</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022497,15.41464,0 75.022408,15.414571,0 75.022463,15.414506,0 75.02255100000001,15.414576,0 75.022497,15.41464,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>7</name>
+		<description><![CDATA[description: <br>fid: 6<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 87<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>6</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>87</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022445,15.414703,0 75.022356,15.414634,0 75.022408,15.414571,0 75.022497,15.41464,0 75.022445,15.414703,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>8</name>
+		<description><![CDATA[description: <br>fid: 7<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 89<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>7</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>89</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02239,15.414768,0 75.022301,15.4147,0 75.022356,15.414634,0 75.022445,15.414703,0 75.02239,15.414768,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<description><![CDATA[description: <br>fid: 8<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 8B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>8</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>8B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022336,15.414832,0 75.02224699999999,15.414764,0 75.022301,15.4147,0 75.02239,15.414768,0 75.022336,15.414832,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<description><![CDATA[description: <br>fid: 9<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 8D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>9</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>8D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022283,15.414896,0 75.022194,15.414827,0 75.02224699999999,15.414764,0 75.022336,15.414832,0 75.022283,15.414896,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<description><![CDATA[description: <br>fid: 10<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 8F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>10</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>8F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02222999999999,15.41496,0 75.022141,15.41489,0 75.022194,15.414827,0 75.022283,15.414896,0 75.02222999999999,15.41496,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>12</name>
+		<description><![CDATA[description: <br>fid: 11<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 91<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>11</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>91</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022177,15.415023,0 75.022088,15.414953,0 75.022141,15.41489,0 75.02222999999999,15.41496,0 75.022177,15.415023,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>13</name>
+		<description><![CDATA[description: <br>fid: 12<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 93<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>12</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>93</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02212299999999,15.415087,0 75.022034,15.415018,0 75.022088,15.414953,0 75.022177,15.415023,0 75.02212299999999,15.415087,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>14</name>
+		<description><![CDATA[description: <br>fid: 13<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 95<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>13</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>95</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02207,15.415151,0 75.021981,15.415082,0 75.022034,15.415018,0 75.02212299999999,15.415087,0 75.02207,15.415151,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>15</name>
+		<description><![CDATA[description: <br>fid: 14<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 97<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>14</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>97</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02201599999999,15.415215,0 75.02192700000001,15.415146,0 75.021981,15.415082,0 75.02207,15.415151,0 75.02201599999999,15.415215,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>16</name>
+		<description><![CDATA[description: <br>fid: 15<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 99<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>15</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>99</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021962,15.415279,0 75.021874,15.41521,0 75.02192700000001,15.415146,0 75.02201599999999,15.415215,0 75.021962,15.415279,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>17</name>
+		<description><![CDATA[description: <br>fid: 16<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 9B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>16</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>9B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02190899999999,15.415343,0 75.02182000000001,15.415274,0 75.021874,15.41521,0 75.021962,15.415279,0 75.02190899999999,15.415343,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>18</name>
+		<description><![CDATA[description: <br>fid: 17<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 9D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>17</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>9D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021855,15.415406,0 75.021767,15.415338,0 75.02182000000001,15.415274,0 75.02190899999999,15.415343,0 75.021855,15.415406,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>19</name>
+		<description><![CDATA[description: <br>fid: 18<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 9F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>18</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>9F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021728,15.415558,0 75.021683,15.415438,0 75.021767,15.415338,0 75.021855,15.415406,0 75.021728,15.415558,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>20</name>
+		<description><![CDATA[description: <br>fid: 19<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>19</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021783,15.415708,0 75.021728,15.415558,0 75.02180199999999,15.41547,0 75.021912,15.415554,0 75.021783,15.415708,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>21</name>
+		<description><![CDATA[description: <br>fid: 20<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>20</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.021912,15.415554,0 75.02180199999999,15.41547,0 75.021855,15.415406,0 75.02196499999999,15.415491,0 75.021912,15.415554,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>22</name>
+		<description><![CDATA[description: <br>fid: 21<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>21</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022019,15.415428,0 75.02196499999999,15.415491,0 75.021855,15.415406,0 75.02190899999999,15.415343,0 75.022019,15.415428,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>23</name>
+		<description><![CDATA[description: <br>fid: 22<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>22</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02207199999999,15.415364,0 75.022019,15.415428,0 75.02190899999999,15.415343,0 75.021962,15.415279,0 75.02207199999999,15.415364,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>24</name>
+		<description><![CDATA[description: <br>fid: 23<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: A9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>23</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>A9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022126,15.4153,0 75.02207199999999,15.415364,0 75.021962,15.415279,0 75.02201599999999,15.415215,0 75.022126,15.4153,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>25</name>
+		<description><![CDATA[description: <br>fid: 24<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: AB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>24</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>AB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02218000000001,15.415236,0 75.022126,15.4153,0 75.02201599999999,15.415215,0 75.02207,15.415151,0 75.02218000000001,15.415236,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>26</name>
+		<description><![CDATA[description: <br>fid: 25<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: AD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>25</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>AD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022233,15.415173,0 75.02218000000001,15.415236,0 75.02207,15.415151,0 75.02212299999999,15.415087,0 75.022233,15.415173,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>27</name>
+		<description><![CDATA[description: <br>fid: 26<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: AF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>26</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>AF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02228599999999,15.415109,0 75.022233,15.415173,0 75.02212299999999,15.415087,0 75.022177,15.415023,0 75.02228599999999,15.415109,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>28</name>
+		<description><![CDATA[description: <br>fid: 27<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>27</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022339,15.415046,0 75.02228599999999,15.415109,0 75.022177,15.415023,0 75.02222999999999,15.41496,0 75.022339,15.415046,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>29</name>
+		<description><![CDATA[description: <br>fid: 28<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>28</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02239299999999,15.414982,0 75.022339,15.415046,0 75.02222999999999,15.41496,0 75.022283,15.414896,0 75.02239299999999,15.414982,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>30</name>
+		<description><![CDATA[description: <br>fid: 29<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>29</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022447,15.414917,0 75.02239299999999,15.414982,0 75.022283,15.414896,0 75.022336,15.414832,0 75.022447,15.414917,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>31</name>
+		<description><![CDATA[description: <br>fid: 30<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>30</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02249999999999,15.414854,0 75.022447,15.414917,0 75.022336,15.414832,0 75.02239,15.414768,0 75.02249999999999,15.414854,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>32</name>
+		<description><![CDATA[description: <br>fid: 31<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: B9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>31</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>B9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022555,15.414789,0 75.02249999999999,15.414854,0 75.02239,15.414768,0 75.022445,15.414703,0 75.022555,15.414789,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>33</name>
+		<description><![CDATA[description: <br>fid: 32<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>32</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02260800000001,15.414726,0 75.022555,15.414789,0 75.022445,15.414703,0 75.022497,15.41464,0 75.02260800000001,15.414726,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>34</name>
+		<description><![CDATA[description: <br>fid: 33<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>33</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02260800000001,15.414726,0 75.022497,15.41464,0 75.02255100000001,15.414576,0 75.022661,15.414662,0 75.02260800000001,15.414726,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>35</name>
+		<description><![CDATA[description: <br>fid: 34<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: BF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>34</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>BF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022739,15.414569,0 75.022661,15.414662,0 75.02255100000001,15.414576,0 75.022637,15.414473,0 75.022739,15.414569,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>36</name>
+		<description><![CDATA[description: <br>fid: 35<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>35</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022785,15.414863,0 75.02267399999999,15.414778,0 75.022801,15.414626,0 75.022803,15.414627,0 75.022904,15.414722,0 75.022785,15.414863,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>37</name>
+		<description><![CDATA[description: <br>fid: 36<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>36</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022621,15.414842,0 75.02267399999999,15.414778,0 75.022785,15.414863,0 75.022732,15.414927,0 75.022621,15.414842,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>38</name>
+		<description><![CDATA[description: <br>fid: 37<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>37</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02256800000001,15.414906,0 75.022621,15.414842,0 75.022732,15.414927,0 75.022677,15.414991,0 75.02256800000001,15.414906,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>39</name>
+		<description><![CDATA[description: <br>fid: 38<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>38</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022514,15.41497,0 75.02256800000001,15.414906,0 75.022677,15.414991,0 75.022623,15.415056,0 75.022514,15.41497,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>40</name>
+		<description><![CDATA[description: <br>fid: 39<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: C9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>39</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>C9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022459,15.415036,0 75.022514,15.41497,0 75.022623,15.415056,0 75.022569,15.41512,0 75.022459,15.415036,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>41</name>
+		<description><![CDATA[description: <br>fid: 40<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: CB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>40</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>CB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022406,15.415099,0 75.022459,15.415036,0 75.022569,15.41512,0 75.022516,15.415184,0 75.022406,15.415099,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>42</name>
+		<description><![CDATA[description: <br>fid: 41<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: CD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>41</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>CD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02235400000001,15.415161,0 75.022406,15.415099,0 75.022516,15.415184,0 75.022463,15.415246,0 75.02235400000001,15.415161,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>43</name>
+		<description><![CDATA[description: <br>fid: 42<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: CF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>42</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>CF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.0223,15.415225,0 75.02235400000001,15.415161,0 75.022463,15.415246,0 75.02240999999999,15.41531,0 75.0223,15.415225,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>44</name>
+		<description><![CDATA[description: <br>fid: 43<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>43</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022248,15.415288,0 75.0223,15.415225,0 75.02240999999999,15.41531,0 75.022357,15.415373,0 75.022248,15.415288,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>45</name>
+		<description><![CDATA[description: <br>fid: 44<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>44</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022195,15.415351,0 75.022248,15.415288,0 75.022357,15.415373,0 75.02230400000001,15.415436,0 75.022195,15.415351,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>46</name>
+		<description><![CDATA[description: <br>fid: 45<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>45</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022248,15.415502,0 75.022139,15.415418,0 75.022195,15.415351,0 75.02230400000001,15.415436,0 75.022248,15.415502,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>47</name>
+		<description><![CDATA[description: <br>fid: 46<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>46</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02236000000001,15.415587,0 75.022248,15.415502,0 75.02230400000001,15.415436,0 75.022414,15.415523,0 75.02236000000001,15.415587,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>48</name>
+		<description><![CDATA[description: <br>fid: 47<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: D9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>47</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>D9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02246700000001,15.41546,0 75.022414,15.415523,0 75.02230400000001,15.415436,0 75.022357,15.415373,0 75.02246700000001,15.41546,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>49</name>
+		<description><![CDATA[description: <br>fid: 48<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: DB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>48</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>DB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02246700000001,15.41546,0 75.022357,15.415373,0 75.02240999999999,15.41531,0 75.02252,15.415396,0 75.02246700000001,15.41546,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>50</name>
+		<description><![CDATA[description: <br>fid: 49<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: DD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>49</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>DD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02252,15.415396,0 75.02240999999999,15.41531,0 75.022463,15.415246,0 75.02257299999999,15.415333,0 75.02252,15.415396,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>51</name>
+		<description><![CDATA[description: <br>fid: 50<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: DF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>50</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>DF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02257299999999,15.415333,0 75.022463,15.415246,0 75.022516,15.415184,0 75.022627,15.415269,0 75.02257299999999,15.415333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>52</name>
+		<description><![CDATA[description: <br>fid: 51<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>51</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022627,15.415269,0 75.022516,15.415184,0 75.022569,15.41512,0 75.02267999999999,15.415206,0 75.022627,15.415269,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>53</name>
+		<description><![CDATA[description: <br>fid: 52<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>52</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02267999999999,15.415206,0 75.022569,15.41512,0 75.022623,15.415056,0 75.022734,15.415142,0 75.02267999999999,15.415206,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>54</name>
+		<description><![CDATA[description: <br>fid: 53<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>53</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022734,15.415142,0 75.022623,15.415056,0 75.022677,15.414991,0 75.02278800000001,15.415077,0 75.022734,15.415142,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>55</name>
+		<description><![CDATA[description: <br>fid: 54<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>54</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02278800000001,15.415077,0 75.022677,15.414991,0 75.022732,15.414927,0 75.022842,15.415012,0 75.02278800000001,15.415077,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>56</name>
+		<description><![CDATA[description: <br>fid: 55<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: E9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>55</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>E9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022842,15.415012,0 75.022732,15.414927,0 75.022785,15.414863,0 75.022896,15.414948,0 75.022842,15.415012,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>57</name>
+		<description><![CDATA[description: <br>fid: 56<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: EB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>56</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>EB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022896,15.414948,0 75.022785,15.414863,0 75.022904,15.414722,0 75.023006,15.414818,0 75.022896,15.414948,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>58</name>
+		<description><![CDATA[description: <br>fid: 57<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: ED<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>57</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>ED</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023072,15.415089,0 75.02296200000001,15.415004,0 75.02306799999999,15.414877,0 75.02316999999999,15.414974,0 75.023072,15.415089,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>59</name>
+		<description><![CDATA[description: <br>fid: 58<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: EF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>58</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>EF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022909,15.415067,0 75.02296200000001,15.415004,0 75.023072,15.415089,0 75.02301900000001,15.415153,0 75.022909,15.415067,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>60</name>
+		<description><![CDATA[description: <br>fid: 59<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>59</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02285500000001,15.415131,0 75.022909,15.415067,0 75.02301900000001,15.415153,0 75.022964,15.415217,0 75.02285500000001,15.415131,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>61</name>
+		<description><![CDATA[description: <br>fid: 60<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>60</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.0228,15.415195,0 75.02285500000001,15.415131,0 75.022964,15.415217,0 75.02291,15.415281,0 75.0228,15.415195,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>62</name>
+		<description><![CDATA[description: <br>fid: 61<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>61</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022745,15.41526,0 75.0228,15.415195,0 75.02291,15.415281,0 75.02285500000001,15.415346,0 75.022745,15.41526,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>63</name>
+		<description><![CDATA[description: <br>fid: 62<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>62</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02269200000001,15.415323,0 75.022745,15.41526,0 75.02285500000001,15.415346,0 75.022802,15.415409,0 75.02269200000001,15.415323,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>64</name>
+		<description><![CDATA[description: <br>fid: 63<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: F9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>63</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>F9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02264,15.415385,0 75.02269200000001,15.415323,0 75.022802,15.415409,0 75.022749,15.415471,0 75.02264,15.415385,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>65</name>
+		<description><![CDATA[description: <br>fid: 64<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: FB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>64</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>FB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022586,15.415449,0 75.02264,15.415385,0 75.022749,15.415471,0 75.022695,15.415535,0 75.022586,15.415449,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>66</name>
+		<description><![CDATA[description: <br>fid: 65<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: FD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>65</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>FD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022533,15.415512,0 75.022586,15.415449,0 75.022695,15.415535,0 75.022642,15.415598,0 75.022533,15.415512,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>67</name>
+		<description><![CDATA[description: <br>fid: 66<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: FF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>66</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>FF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02248,15.415575,0 75.022533,15.415512,0 75.022642,15.415598,0 75.022588,15.41566,0 75.02248,15.415575,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>68</name>
+		<description><![CDATA[description: <br>fid: 67<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 101<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>67</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>101</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022533,15.415726,0 75.022423,15.415642,0 75.02248,15.415575,0 75.022588,15.41566,0 75.022533,15.415726,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>69</name>
+		<description><![CDATA[description: <br>fid: 68<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 103<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>68</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>103</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022644,15.415812,0 75.022533,15.415726,0 75.022588,15.41566,0 75.02269800000001,15.415747,0 75.022644,15.415812,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>70</name>
+		<description><![CDATA[description: <br>fid: 69<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 105<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>69</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>105</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022751,15.415685,0 75.02269800000001,15.415747,0 75.022588,15.41566,0 75.022642,15.415598,0 75.022751,15.415685,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>71</name>
+		<description><![CDATA[description: <br>fid: 70<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 107<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>70</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>107</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022751,15.415685,0 75.022642,15.415598,0 75.022695,15.415535,0 75.02280500000001,15.415621,0 75.022751,15.415685,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>72</name>
+		<description><![CDATA[description: <br>fid: 71<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 109<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>71</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>109</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02280500000001,15.415621,0 75.022695,15.415535,0 75.022749,15.415471,0 75.022858,15.415558,0 75.02280500000001,15.415621,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>73</name>
+		<description><![CDATA[description: <br>fid: 72<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 10B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>72</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>10B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022858,15.415558,0 75.022749,15.415471,0 75.022802,15.415409,0 75.02291200000001,15.415495,0 75.022858,15.415558,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>74</name>
+		<description><![CDATA[description: <br>fid: 73<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 10D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>73</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>10D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02291200000001,15.415495,0 75.022802,15.415409,0 75.02285500000001,15.415346,0 75.022966,15.415432,0 75.02291200000001,15.415495,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>75</name>
+		<description><![CDATA[description: <br>fid: 74<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 10F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>74</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>10F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022966,15.415432,0 75.02285500000001,15.415346,0 75.02291,15.415281,0 75.02302,15.415368,0 75.022966,15.415432,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>76</name>
+		<description><![CDATA[description: <br>fid: 75<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 111<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>75</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>111</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02302,15.415368,0 75.02291,15.415281,0 75.022964,15.415217,0 75.02307399999999,15.415304,0 75.02302,15.415368,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>77</name>
+		<description><![CDATA[description: <br>fid: 76<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 113<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>76</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>113</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02307399999999,15.415304,0 75.022964,15.415217,0 75.02301900000001,15.415153,0 75.023129,15.415239,0 75.02307399999999,15.415304,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>78</name>
+		<description><![CDATA[description: <br>fid: 77<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 115<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>77</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>115</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023129,15.415239,0 75.02301900000001,15.415153,0 75.023072,15.415089,0 75.023183,15.415175,0 75.023129,15.415239,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>79</name>
+		<description><![CDATA[description: <br>fid: 78<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 117<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>78</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>117</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023183,15.415175,0 75.023072,15.415089,0 75.02316999999999,15.414974,0 75.02327200000001,15.415069,0 75.023183,15.415175,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>80</name>
+		<description><![CDATA[description: <br>fid: 79<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 119<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>79</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>119</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023349,15.415371,0 75.023217,15.415268,0 75.023336,15.415128,0 75.02345800000001,15.415243,0 75.023349,15.415371,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>81</name>
+		<description><![CDATA[description: <br>fid: 80<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 11B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>80</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>11B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023144,15.415354,0 75.023217,15.415268,0 75.023349,15.415371,0 75.02327699999999,15.415456,0 75.023144,15.415354,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>82</name>
+		<description><![CDATA[description: <br>fid: 81<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 11D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>81</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>11D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023071,15.415441,0 75.023144,15.415354,0 75.02327699999999,15.415456,0 75.02320400000001,15.415543,0 75.023071,15.415441,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>83</name>
+		<description><![CDATA[description: <br>fid: 82<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 11F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>82</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>11F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023132,15.415627,0 75.022999,15.415525,0 75.023071,15.415441,0 75.02320400000001,15.415543,0 75.023132,15.415627,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>84</name>
+		<description><![CDATA[description: <br>fid: 83<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 121<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>83</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>121</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02292799999999,15.41561,0 75.022999,15.415525,0 75.023132,15.415627,0 75.023061,15.415712,0 75.02292799999999,15.41561,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>85</name>
+		<description><![CDATA[description: <br>fid: 84<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 123<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>84</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>123</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022856,15.415695,0 75.02292799999999,15.41561,0 75.023061,15.415712,0 75.022989,15.415796,0 75.022856,15.415695,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>86</name>
+		<description><![CDATA[description: <br>fid: 85<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 125<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>85</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>125</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022784,15.41578,0 75.022856,15.415695,0 75.022989,15.415796,0 75.02291700000001,15.415881,0 75.022784,15.41578,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>87</name>
+		<description><![CDATA[description: <br>fid: 86<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 127<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>86</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>127</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022846,15.415966,0 75.022712,15.415864,0 75.022784,15.41578,0 75.02291700000001,15.415881,0 75.022846,15.415966,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>88</name>
+		<description><![CDATA[description: <br>fid: 87<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 129<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>87</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>129</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02297799999999,15.416067,0 75.022846,15.415966,0 75.02291700000001,15.415881,0 75.02305,15.415982,0 75.02297799999999,15.416067,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>90</name>
+		<description><![CDATA[description: <br>fid: 88<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 12B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>88</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>12B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023122,15.415897,0 75.02305,15.415982,0 75.02291700000001,15.415881,0 75.022989,15.415796,0 75.023122,15.415897,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>91</name>
+		<description><![CDATA[description: <br>fid: 89<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 12D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>89</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>12D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023122,15.415897,0 75.022989,15.415796,0 75.023061,15.415712,0 75.02319300000001,15.415813,0 75.023122,15.415897,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>92</name>
+		<description><![CDATA[description: <br>fid: 90<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 12F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>90</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>12F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02326499999999,15.415729,0 75.02319300000001,15.415813,0 75.023061,15.415712,0 75.023132,15.415627,0 75.02326499999999,15.415729,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>93</name>
+		<description><![CDATA[description: <br>fid: 91<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 131<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>91</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>131</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02326499999999,15.415729,0 75.023132,15.415627,0 75.02320400000001,15.415543,0 75.023337,15.415644,0 75.02326499999999,15.415729,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>94</name>
+		<description><![CDATA[description: <br>fid: 92<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 133<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>92</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>133</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023337,15.415644,0 75.02320400000001,15.415543,0 75.02327699999999,15.415456,0 75.02341,15.415558,0 75.023337,15.415644,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>95</name>
+		<description><![CDATA[description: <br>fid: 93<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 135<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>93</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>135</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02341,15.415558,0 75.02327699999999,15.415456,0 75.023349,15.415371,0 75.023482,15.415473,0 75.02341,15.415558,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>96</name>
+		<description><![CDATA[description: <br>fid: 94<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 137<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>94</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>137</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023482,15.415473,0 75.023349,15.415371,0 75.02345800000001,15.415243,0 75.02358,15.415357,0 75.023482,15.415473,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>98</name>
+		<description><![CDATA[description: <br>fid: 95<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 139<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>95</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>139</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02385700000001,15.415464,0 75.023713,15.415331,0 75.023816,15.415211,0 75.02399800000001,15.415353,0 75.02385700000001,15.415464,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>99</name>
+		<description><![CDATA[description: <br>fid: 96<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 13B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>96</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>13B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02399800000001,15.415353,0 75.023816,15.415211,0 75.02390699999999,15.415104,0 75.024111,15.415263,0 75.02399800000001,15.415353,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>100</name>
+		<description><![CDATA[description: <br>fid: 97<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 13D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>97</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>13D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024111,15.415263,0 75.02390699999999,15.415104,0 75.023999,15.414996,0 75.024224,15.415173,0 75.024111,15.415263,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>101</name>
+		<description><![CDATA[description: <br>fid: 98<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 13F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>98</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>13F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024224,15.415173,0 75.023999,15.414996,0 75.02409,15.414889,0 75.024338,15.415083,0 75.024224,15.415173,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>102</name>
+		<description><![CDATA[description: <br>fid: 99<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 141<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>99</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>141</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024338,15.415083,0 75.02409,15.414889,0 75.024181,15.414782,0 75.02445299999999,15.414992,0 75.024338,15.415083,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>103</name>
+		<description><![CDATA[description: <br>fid: 100<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 143<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>100</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>143</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02442000000001,15.414787,0 75.02456599999999,15.414902,0 75.024565,15.414903,0 75.02445299999999,15.414992,0 75.024181,15.414782,0 75.024275,15.414673,0 75.02442000000001,15.414787,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>104</name>
+		<description><![CDATA[description: <br>fid: 101<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 145<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>101</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>145</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02442000000001,15.414787,0 75.024275,15.414673,0 75.024356,15.414578,0 75.024502,15.414692,0 75.02442000000001,15.414787,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>105</name>
+		<description><![CDATA[description: <br>fid: 102<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 147<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>102</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>147</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02456599999999,15.414902,0 75.02442000000001,15.414787,0 75.024502,15.414692,0 75.024649,15.414807,0 75.02456599999999,15.414902,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>106</name>
+		<description><![CDATA[description: <br>fid: 103<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 149<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>103</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>149</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024356,15.414578,0 75.02443700000001,15.414483,0 75.024584,15.414598,0 75.024502,15.414692,0 75.024356,15.414578,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>107</name>
+		<description><![CDATA[description: <br>fid: 104<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 14B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>104</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>14B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024732,15.414713,0 75.024649,15.414807,0 75.024502,15.414692,0 75.024584,15.414598,0 75.024732,15.414713,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>108</name>
+		<description><![CDATA[description: <br>fid: 105<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 14D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>105</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>14D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024828,15.414899,0 75.024742,15.414829,0 75.024798,15.414766,0 75.024883,15.414836,0 75.024828,15.414899,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>109</name>
+		<description><![CDATA[description: <br>fid: 106<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 14F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>106</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>14F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024683,15.414896,0 75.024742,15.414829,0 75.024828,15.414899,0 75.02476900000001,15.414965,0 75.024683,15.414896,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>110</name>
+		<description><![CDATA[description: <br>fid: 107<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 151<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>107</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>151</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024711,15.415031,0 75.024629,15.414957,0 75.024683,15.414896,0 75.02476900000001,15.414965,0 75.024711,15.415031,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>111</name>
+		<description><![CDATA[description: <br>fid: 108<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 153<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>108</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>153</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024794,15.415104,0 75.024711,15.415031,0 75.02476900000001,15.414965,0 75.024856,15.415034,0 75.024794,15.415104,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>112</name>
+		<description><![CDATA[description: <br>fid: 109<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 155<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>109</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>155</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024912,15.414969,0 75.024856,15.415034,0 75.02476900000001,15.414965,0 75.024828,15.414899,0 75.024912,15.414969,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>113</name>
+		<description><![CDATA[description: <br>fid: 110<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 157<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>110</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>157</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024912,15.414969,0 75.024828,15.414899,0 75.024883,15.414836,0 75.024969,15.414906,0 75.024912,15.414969,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>114</name>
+		<description><![CDATA[description: <br>fid: 111<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 159<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>111</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>159</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024978,15.415021,0 75.02503400000001,15.414957,0 75.02513999999999,15.415044,0 75.02508400000001,15.415108,0 75.024978,15.415021,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>115</name>
+		<description><![CDATA[description: <br>fid: 112<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 15B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>112</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>15B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02492100000001,15.415085,0 75.024978,15.415021,0 75.02508400000001,15.415108,0 75.02502800000001,15.415172,0 75.02492100000001,15.415085,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>116</name>
+		<description><![CDATA[description: <br>fid: 113<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 15D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>113</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>15D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024958,15.415251,0 75.024855,15.41516,0 75.02492100000001,15.415085,0 75.02502800000001,15.415172,0 75.024958,15.415251,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>117</name>
+		<description><![CDATA[description: <br>fid: 114<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 15F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>114</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>15F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025069,15.41535,0 75.024958,15.415251,0 75.02502800000001,15.415172,0 75.02513999999999,15.415264,0 75.025069,15.41535,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>118</name>
+		<description><![CDATA[description: <br>fid: 115<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 161<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>115</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>161</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025193,15.415198,0 75.02513999999999,15.415264,0 75.02502800000001,15.415172,0 75.02508400000001,15.415108,0 75.025193,15.415198,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>119</name>
+		<description><![CDATA[description: <br>fid: 116<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 163<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>116</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>163</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025193,15.415198,0 75.02508400000001,15.415108,0 75.02513999999999,15.415044,0 75.025248,15.415132,0 75.025193,15.415198,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>120</name>
+		<description><![CDATA[description: <br>fid: 117<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 165<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>117</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>165</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025301,15.415066,0 75.025177,15.414965,0 75.025291,15.41483,0 75.025407,15.414933,0 75.025301,15.415066,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>121</name>
+		<description><![CDATA[description: <br>fid: 118<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 167<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>118</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>167</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025177,15.414965,0 75.025091,15.414895,0 75.02520800000001,15.414757,0 75.025291,15.41483,0 75.025177,15.414965,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>122</name>
+		<description><![CDATA[description: <br>fid: 119<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 169<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>119</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>169</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025091,15.414895,0 75.025006,15.414825,0 75.025127,15.414685,0 75.02520800000001,15.414757,0 75.025091,15.414895,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>123</name>
+		<description><![CDATA[description: <br>fid: 120<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 16B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>120</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>16B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.025006,15.414825,0 75.024922,15.414756,0 75.025046,15.41461,0 75.025127,15.414685,0 75.025006,15.414825,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>124</name>
+		<description><![CDATA[description: <br>fid: 121<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 16D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>121</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>16D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024922,15.414756,0 75.02483599999999,15.414685,0 75.024963,15.414534,0 75.025046,15.41461,0 75.024922,15.414756,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>125</name>
+		<description><![CDATA[description: <br>fid: 122<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 16F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>122</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>16F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02483599999999,15.414685,0 75.024835,15.414685,0 75.02474599999999,15.414615,0 75.024878,15.41446,0 75.024963,15.414533,0 75.024963,15.414534,0 75.02483599999999,15.414685,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>126</name>
+		<description><![CDATA[description: <br>fid: 123<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 171<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>123</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>171</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02474599999999,15.414615,0 75.02465599999999,15.414544,0 75.024794,15.414386,0 75.024878,15.41446,0 75.02474599999999,15.414615,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>127</name>
+		<description><![CDATA[description: <br>fid: 124<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 173<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>124</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>173</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02465599999999,15.414544,0 75.024567,15.414474,0 75.02470599999999,15.41431,0 75.024794,15.414386,0 75.02465599999999,15.414544,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>128</name>
+		<description><![CDATA[description: <br>fid: 125<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 175<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>125</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>175</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024462,15.414392,0 75.02452700000001,15.414154,0 75.02470599999999,15.41431,0 75.024567,15.414474,0 75.024462,15.414392,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>129</name>
+		<description><![CDATA[description: <br>fid: 126<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 177<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>126</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>177</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02434100000001,15.414147,0 75.024247,15.414079,0 75.024311,15.413974,0 75.02446,15.4141,0 75.024445,15.414122,0 75.024421,15.414206,0 75.02434100000001,15.414147,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>130</name>
+		<description><![CDATA[description: <br>fid: 127<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 179<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>127</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>179</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024385,15.414333,0 75.024261,15.414239,0 75.02434100000001,15.414147,0 75.024421,15.414206,0 75.024385,15.414333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>131</name>
+		<description><![CDATA[description: <br>fid: 128<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 17B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>128</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>17B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024185,15.414182,0 75.024247,15.414079,0 75.02434100000001,15.414147,0 75.024261,15.414239,0 75.024185,15.414182,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>134</name>
+		<description><![CDATA[description: <br>fid: 129<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 17D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>129</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>17D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024295,15.414517,0 75.02415999999999,15.414415,0 75.024235,15.414326,0 75.024371,15.414428,0 75.024295,15.414517,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>135</name>
+		<description><![CDATA[description: <br>fid: 130<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 17F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>130</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>17F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02422,15.414605,0 75.024085,15.414502,0 75.02415999999999,15.414415,0 75.024295,15.414517,0 75.02422,15.414605,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>136</name>
+		<description><![CDATA[description: <br>fid: 131<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 181<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>131</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>181</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024146,15.414691,0 75.024012,15.414589,0 75.024085,15.414502,0 75.02422,15.414605,0 75.024146,15.414691,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>137</name>
+		<description><![CDATA[description: <br>fid: 132<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 183<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>132</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>183</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024073,15.414777,0 75.023939,15.414674,0 75.024012,15.414589,0 75.024146,15.414691,0 75.024073,15.414777,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>138</name>
+		<description><![CDATA[description: <br>fid: 133<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 185<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>133</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>185</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024,15.414864,0 75.023866,15.41476,0 75.023939,15.414674,0 75.024073,15.414777,0 75.024,15.414864,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>139</name>
+		<description><![CDATA[description: <br>fid: 134<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 187<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>134</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>187</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023927,15.41495,0 75.023793,15.414846,0 75.023866,15.41476,0 75.024,15.414864,0 75.023927,15.41495,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>140</name>
+		<description><![CDATA[description: <br>fid: 135<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 189<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>135</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>189</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02385200000001,15.415037,0 75.023719,15.414933,0 75.023793,15.414846,0 75.023927,15.41495,0 75.02385200000001,15.415037,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>141</name>
+		<description><![CDATA[description: <br>fid: 136<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 18B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>136</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>18B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02385200000001,15.415037,0 75.02378,15.415122,0 75.023647,15.415018,0 75.023719,15.414933,0 75.02385200000001,15.415037,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>142</name>
+		<description><![CDATA[description: <br>fid: 137<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 18D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>137</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>18D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023653,15.415271,0 75.023529,15.415156,0 75.023647,15.415018,0 75.02378,15.415122,0 75.023653,15.415271,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>143</name>
+		<description><![CDATA[description: <br>fid: 138<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 18F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>138</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>18F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023529,15.415156,0 75.02340700000001,15.415041,0 75.02351400000001,15.414915,0 75.023647,15.415018,0 75.023529,15.415156,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>144</name>
+		<description><![CDATA[description: <br>fid: 139<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 191<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>139</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>191</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02351400000001,15.414915,0 75.02358599999999,15.414829,0 75.023719,15.414933,0 75.023647,15.415018,0 75.02351400000001,15.414915,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>145</name>
+		<description><![CDATA[description: <br>fid: 140<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 193<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>140</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>193</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02358599999999,15.414829,0 75.02366000000001,15.414742,0 75.023793,15.414846,0 75.023719,15.414933,0 75.02358599999999,15.414829,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>146</name>
+		<description><![CDATA[description: <br>fid: 141<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 195<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>141</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>195</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023793,15.414846,0 75.02366000000001,15.414742,0 75.02373299999999,15.414656,0 75.023866,15.41476,0 75.023793,15.414846,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>147</name>
+		<description><![CDATA[description: <br>fid: 142<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 197<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>142</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>197</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02373299999999,15.414656,0 75.02380599999999,15.41457,0 75.023939,15.414674,0 75.023866,15.41476,0 75.02373299999999,15.414656,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>148</name>
+		<description><![CDATA[description: <br>fid: 143<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 199<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>143</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>199</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02380599999999,15.41457,0 75.023877,15.414486,0 75.024012,15.414589,0 75.023939,15.414674,0 75.02380599999999,15.41457,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>149</name>
+		<description><![CDATA[description: <br>fid: 144<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 19B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>144</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>19B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.024012,15.414589,0 75.023877,15.414486,0 75.023951,15.414399,0 75.024085,15.414502,0 75.024012,15.414589,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>150</name>
+		<description><![CDATA[description: <br>fid: 145<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 19D<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>145</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>19D</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023951,15.414399,0 75.024024,15.414312,0 75.02415999999999,15.414415,0 75.024085,15.414502,0 75.023951,15.414399,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>151</name>
+		<description><![CDATA[description: <br>fid: 146<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 19F<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>146</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>19F</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02415999999999,15.414415,0 75.024024,15.414312,0 75.024098,15.414225,0 75.024235,15.414326,0 75.02415999999999,15.414415,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>152</name>
+		<description><![CDATA[description: <br>fid: 147<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1A1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>147</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1A1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023973,15.414238,0 75.023861,15.414153,0 75.023915,15.414088,0 75.024028,15.414173,0 75.023973,15.414238,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>153</name>
+		<description><![CDATA[description: <br>fid: 148<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1A3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>148</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1A3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02391799999999,15.414304,0 75.02380599999999,15.414218,0 75.023861,15.414153,0 75.023973,15.414238,0 75.02391799999999,15.414304,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>154</name>
+		<description><![CDATA[description: <br>fid: 149<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1A5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>149</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1A5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023864,15.414368,0 75.023752,15.414282,0 75.02380599999999,15.414218,0 75.02391799999999,15.414304,0 75.023864,15.414368,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>155</name>
+		<description><![CDATA[description: <br>fid: 150<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1A7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>150</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1A7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023809,15.414433,0 75.023697,15.414347,0 75.023752,15.414282,0 75.023864,15.414368,0 75.023809,15.414433,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>156</name>
+		<description><![CDATA[description: <br>fid: 151<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1A9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>151</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1A9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02375499999999,15.414497,0 75.023644,15.41441,0 75.023697,15.414347,0 75.023809,15.414433,0 75.02375499999999,15.414497,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>157</name>
+		<description><![CDATA[description: <br>fid: 152<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1AB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>152</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1AB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023702,15.41456,0 75.02359,15.414474,0 75.023644,15.41441,0 75.02375499999999,15.414497,0 75.023702,15.41456,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>158</name>
+		<description><![CDATA[description: <br>fid: 153<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1AD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>153</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1AD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023647,15.414626,0 75.023535,15.414539,0 75.02359,15.414474,0 75.023702,15.41456,0 75.023647,15.414626,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>159</name>
+		<description><![CDATA[description: <br>fid: 154<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1AF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>154</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1AF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023591,15.414692,0 75.02348000000001,15.414605,0 75.023535,15.414539,0 75.023647,15.414626,0 75.023591,15.414692,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>160</name>
+		<description><![CDATA[description: <br>fid: 155<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1B1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>155</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1B1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023538,15.414754,0 75.023426,15.414668,0 75.02348000000001,15.414605,0 75.023591,15.414692,0 75.023538,15.414754,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>161</name>
+		<description><![CDATA[description: <br>fid: 156<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1B3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>156</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1B3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023483,15.41482,0 75.023371,15.414734,0 75.023426,15.414668,0 75.023538,15.414754,0 75.023483,15.41482,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>162</name>
+		<description><![CDATA[description: <br>fid: 157<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1B5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>157</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1B5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023483,15.41482,0 75.023428,15.414886,0 75.02331700000001,15.414799,0 75.023371,15.414734,0 75.023483,15.41482,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>163</name>
+		<description><![CDATA[description: <br>fid: 158<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1B7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>158</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1B7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023346,15.414983,0 75.02324299999999,15.414886,0 75.02331700000001,15.414799,0 75.023428,15.414886,0 75.023346,15.414983,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>164</name>
+		<description><![CDATA[description: <br>fid: 159<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1B9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>159</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1B9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02324299999999,15.414886,0 75.023138,15.414789,0 75.02320400000001,15.414711,0 75.02331700000001,15.414799,0 75.02324299999999,15.414886,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>165</name>
+		<description><![CDATA[description: <br>fid: 160<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1BB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>160</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1BB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02320400000001,15.414711,0 75.023259,15.414647,0 75.023371,15.414734,0 75.02331700000001,15.414799,0 75.02320400000001,15.414711,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>166</name>
+		<description><![CDATA[description: <br>fid: 161<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1BD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>161</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1BD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023259,15.414647,0 75.023314,15.414581,0 75.023426,15.414668,0 75.023371,15.414734,0 75.023259,15.414647,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>167</name>
+		<description><![CDATA[description: <br>fid: 162<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1BF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>162</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1BF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023314,15.414581,0 75.023368,15.414517,0 75.02348000000001,15.414605,0 75.023426,15.414668,0 75.023314,15.414581,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>168</name>
+		<description><![CDATA[description: <br>fid: 163<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1C1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>163</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1C1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023368,15.414517,0 75.02342299999999,15.414452,0 75.023535,15.414539,0 75.02348000000001,15.414605,0 75.023368,15.414517,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>169</name>
+		<description><![CDATA[description: <br>fid: 164<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1C3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>164</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1C3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02342299999999,15.414452,0 75.023477,15.414388,0 75.02359,15.414474,0 75.023535,15.414539,0 75.02342299999999,15.414452,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>170</name>
+		<description><![CDATA[description: <br>fid: 165<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1C5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>165</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1C5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023477,15.414388,0 75.023532,15.414324,0 75.023644,15.41441,0 75.02359,15.414474,0 75.023477,15.414388,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>171</name>
+		<description><![CDATA[description: <br>fid: 166<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1C7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>166</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1C7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023532,15.414324,0 75.023585,15.414261,0 75.023697,15.414347,0 75.023644,15.41441,0 75.023532,15.414324,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>172</name>
+		<description><![CDATA[description: <br>fid: 167<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1C9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>167</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1C9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023585,15.414261,0 75.02364,15.414196,0 75.023752,15.414282,0 75.023697,15.414347,0 75.023585,15.414261,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>173</name>
+		<description><![CDATA[description: <br>fid: 168<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1CB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>168</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1CB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02364,15.414196,0 75.02369400000001,15.414132,0 75.02380599999999,15.414218,0 75.023752,15.414282,0 75.02364,15.414196,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>174</name>
+		<description><![CDATA[description: <br>fid: 169<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1CD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>169</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1CD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02369400000001,15.414132,0 75.023749,15.414067,0 75.023861,15.414153,0 75.02380599999999,15.414218,0 75.02369400000001,15.414132,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>175</name>
+		<description><![CDATA[description: <br>fid: 170<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1CF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>170</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1CF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023749,15.414067,0 75.023803,15.414003,0 75.023915,15.414088,0 75.023861,15.414153,0 75.023749,15.414067,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>176</name>
+		<description><![CDATA[description: <br>fid: 171<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1D1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>171</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1D1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023681,15.414016,0 75.023571,15.413931,0 75.023625,15.413867,0 75.023735,15.413952,0 75.023681,15.414016,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>177</name>
+		<description><![CDATA[description: <br>fid: 172<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1D3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>172</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1D3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023627,15.41408,0 75.023517,15.413995,0 75.023571,15.413931,0 75.023681,15.414016,0 75.023627,15.41408,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>178</name>
+		<description><![CDATA[description: <br>fid: 173<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1D5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>173</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1D5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023573,15.414144,0 75.02346199999999,15.414059,0 75.023517,15.413995,0 75.023627,15.41408,0 75.023573,15.414144,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>179</name>
+		<description><![CDATA[description: <br>fid: 174<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1D7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>174</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1D7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02351899999999,15.414208,0 75.023408,15.414123,0 75.02346199999999,15.414059,0 75.023573,15.414144,0 75.02351899999999,15.414208,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>180</name>
+		<description><![CDATA[description: <br>fid: 175<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1D9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>175</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1D9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023466,15.414271,0 75.023355,15.414186,0 75.023408,15.414123,0 75.02351899999999,15.414208,0 75.023466,15.414271,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>181</name>
+		<description><![CDATA[description: <br>fid: 176<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1DB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>176</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1DB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02341199999999,15.414335,0 75.023301,15.41425,0 75.023355,15.414186,0 75.023466,15.414271,0 75.02341199999999,15.414335,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>182</name>
+		<description><![CDATA[description: <br>fid: 177<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1DD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>177</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1DD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02335600000001,15.414402,0 75.023245,15.414315,0 75.023301,15.41425,0 75.02341199999999,15.414335,0 75.02335600000001,15.414402,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>183</name>
+		<description><![CDATA[description: <br>fid: 178<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1DF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>178</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1DF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023302,15.414465,0 75.023191,15.414379,0 75.023245,15.414315,0 75.02335600000001,15.414402,0 75.023302,15.414465,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>184</name>
+		<description><![CDATA[description: <br>fid: 179<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1E1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>179</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1E1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023248,15.414529,0 75.02313700000001,15.414443,0 75.023191,15.414379,0 75.023302,15.414465,0 75.023248,15.414529,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>185</name>
+		<description><![CDATA[description: <br>fid: 180<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1E3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>180</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1E3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023248,15.414529,0 75.023194,15.414593,0 75.023083,15.414508,0 75.02313700000001,15.414443,0 75.023248,15.414529,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>186</name>
+		<description><![CDATA[description: <br>fid: 181<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1E5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>181</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1E5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023078,15.414731,0 75.022975,15.414635,0 75.023083,15.414508,0 75.023194,15.414593,0 75.023078,15.414731,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>187</name>
+		<description><![CDATA[description: <br>fid: 182<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1E7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>182</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1E7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022975,15.414635,0 75.022874,15.41454,0 75.02297299999999,15.414423,0 75.023083,15.414508,0 75.022975,15.414635,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>188</name>
+		<description><![CDATA[description: <br>fid: 183<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1E9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>183</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1E9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02297299999999,15.414423,0 75.023027,15.414358,0 75.02313700000001,15.414443,0 75.023083,15.414508,0 75.02297299999999,15.414423,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>189</name>
+		<description><![CDATA[description: <br>fid: 184<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1EB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>184</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1EB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023027,15.414358,0 75.023081,15.414294,0 75.023191,15.414379,0 75.02313700000001,15.414443,0 75.023027,15.414358,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>190</name>
+		<description><![CDATA[description: <br>fid: 185<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1ED<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>185</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1ED</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023081,15.414294,0 75.02313599999999,15.414229,0 75.023245,15.414315,0 75.023191,15.414379,0 75.023081,15.414294,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>191</name>
+		<description><![CDATA[description: <br>fid: 186<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1EF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>186</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1EF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02313599999999,15.414229,0 75.023189,15.414165,0 75.023301,15.41425,0 75.023245,15.414315,0 75.02313599999999,15.414229,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>192</name>
+		<description><![CDATA[description: <br>fid: 187<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1F1<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>187</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1F1</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023189,15.414165,0 75.02324400000001,15.4141,0 75.023355,15.414186,0 75.023301,15.41425,0 75.023189,15.414165,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>193</name>
+		<description><![CDATA[description: <br>fid: 188<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1F3<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>188</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1F3</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02324400000001,15.4141,0 75.023297,15.414038,0 75.023408,15.414123,0 75.023355,15.414186,0 75.02324400000001,15.4141,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>194</name>
+		<description><![CDATA[description: <br>fid: 189<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1F5<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>189</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1F5</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023297,15.414038,0 75.02335100000001,15.413973,0 75.02346199999999,15.414059,0 75.023408,15.414123,0 75.023297,15.414038,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>195</name>
+		<description><![CDATA[description: <br>fid: 190<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1F7<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>190</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1F7</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02335100000001,15.413973,0 75.023405,15.413909,0 75.023517,15.413995,0 75.02346199999999,15.414059,0 75.02335100000001,15.413973,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>196</name>
+		<description><![CDATA[description: <br>fid: 191<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1F9<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>191</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1F9</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023405,15.413909,0 75.023459,15.413845,0 75.023571,15.413931,0 75.023517,15.413995,0 75.023405,15.413909,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>197</name>
+		<description><![CDATA[description: <br>fid: 192<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1FB<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>192</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1FB</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023459,15.413845,0 75.02351299999999,15.413781,0 75.023625,15.413867,0 75.023571,15.413931,0 75.023459,15.413845,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>198</name>
+		<description><![CDATA[description: <br>fid: 193<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1FD<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>193</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1FD</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02343,15.41375,0 75.02323199999999,15.413985,0 75.023117,15.413899,0 75.02316399999999,15.413844,0 75.02343399999999,15.413746,0 75.02343,15.41375,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>199</name>
+		<description><![CDATA[description: <br>fid: 194<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 1FF<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>194</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>1FF</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.023179,15.414048,0 75.023065,15.413961,0 75.023117,15.413899,0 75.02323199999999,15.413985,0 75.023179,15.414048,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>200</name>
+		<description><![CDATA[description: <br>fid: 195<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 201<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>195</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>201</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02312499999999,15.414112,0 75.023011,15.414025,0 75.023065,15.413961,0 75.023179,15.414048,0 75.02312499999999,15.414112,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>201</name>
+		<description><![CDATA[description: <br>fid: 196<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 203<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>196</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>203</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02312499999999,15.414112,0 75.02307,15.414177,0 75.02295599999999,15.41409,0 75.023011,15.414025,0 75.02312499999999,15.414112,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>202</name>
+		<description><![CDATA[description: <br>fid: 197<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 205<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>197</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>205</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.02301,15.414248,0 75.022902,15.414153,0 75.02295599999999,15.41409,0 75.02307,15.414177,0 75.02301,15.414248,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>203</name>
+		<description><![CDATA[description: <br>fid: 198<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 207<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>198</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>207</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022982,15.414059,0 75.022863,15.413954,0 75.02316399999999,15.413844,0 75.022982,15.414059,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>204</name>
+		<description><![CDATA[description: <br>fid: 199<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 209<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>199</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>209</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022902,15.414153,0 75.022747,15.414018,0 75.02285999999999,15.413955,0 75.022863,15.413954,0 75.022982,15.414059,0 75.022902,15.414153,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>205</name>
+		<description><![CDATA[description: <br>fid: 200<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 20B<br>Text: SOLID]]></description>
+		<styleUrl>#poly-FFFFFF-1000-0</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+				<value>200</value>
+			</Data>
+			<Data name="Layer">
+				<value>Layer 4</value>
+			</Data>
+			<Data name="SubClasses">
+				<value>AcDbEntity:AcDbHatch</value>
+			</Data>
+			<Data name="EntityHandle">
+				<value>20B</value>
+			</Data>
+			<Data name="Text">
+				<value>SOLID</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						75.022813,15.414482,0 75.022479,15.414168,0 75.022747,15.414018,0 75.02301,15.414248,0 75.022813,15.414482,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<GroundOverlay>
+		<name>Untitled Image Overlay</name>
+		<Icon>
+			<href>https://raw.githubusercontent.com/KamalPurohit/Images/main/SEPL.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>15.41652046153265</north>
+			<south>15.41326944627361</south>
+			<east>75.02569485486234</east>
+			<west>75.02113930404649</west>
+			<rotation>-0.4289258718490601</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<Placemark>
+		<name>start</name>
+		<description><![CDATA[description: <br>fid: <br>Layer: <br>SubClasses: <br>EntityHandle: <br>Text:]]></description>
+		<styleUrl>#icon-1899-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="fid">
+			</Data>
+			<Data name="Layer">
+			</Data>
+			<Data name="SubClasses">
+			</Data>
+			<Data name="EntityHandle">
+			</Data>
+			<Data name="Text">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>75.025431,15.414919,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
