@@ -6760,13 +6760,14 @@
 			</outerBoundaryIs>
 		</Polygon>
 	</Placemark>
-	<Placemark>
+	
+<Placemark>
 		<name>203</name>
-		<description><![CDATA[fid: 198<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 207<br>Text: SOLID<br>description:]]></description>
+		<description><![CDATA[fid: 200<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 20B<br>Text: SOLID<br>description:]]></description>
 		<styleUrl>#poly-FF0000-1000-0</styleUrl>
 		<ExtendedData>
 			<Data name="fid">
-				<value>198</value>
+				<value>200</value>
 			</Data>
 			<Data name="Layer">
 				<value>Layer 4</value>
@@ -6775,7 +6776,7 @@
 				<value>AcDbEntity:AcDbHatch</value>
 			</Data>
 			<Data name="EntityHandle">
-				<value>207</value>
+				<value>20B</value>
 			</Data>
 			<Data name="Text">
 				<value>SOLID</value>
@@ -6788,7 +6789,7 @@
 				<LinearRing>
 					<tessellate>1</tessellate>
 					<coordinates>
-						75.02296200000001,15.414069,0 75.022839,15.413967,0 75.023138,15.413851,0 75.02296200000001,15.414069,0 
+						75.02280399999999,15.414496,0 75.02246100000001,15.414191,0 75.02272600000001,15.414034,0 75.02299499999999,15.414258,0 75.02280399999999,15.414496,0 
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
@@ -6830,11 +6831,11 @@
 	</Placemark>
 	<Placemark>
 		<name>205</name>
-		<description><![CDATA[fid: 200<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 20B<br>Text: SOLID<br>description:]]></description>
+		<description><![CDATA[fid: 198<br>Layer: Layer 4<br>SubClasses: AcDbEntity:AcDbHatch<br>EntityHandle: 207<br>Text: SOLID<br>description:]]></description>
 		<styleUrl>#poly-FF0000-1000-0</styleUrl>
 		<ExtendedData>
 			<Data name="fid">
-				<value>200</value>
+				<value>198</value>
 			</Data>
 			<Data name="Layer">
 				<value>Layer 4</value>
@@ -6843,7 +6844,7 @@
 				<value>AcDbEntity:AcDbHatch</value>
 			</Data>
 			<Data name="EntityHandle">
-				<value>20B</value>
+				<value>207</value>
 			</Data>
 			<Data name="Text">
 				<value>SOLID</value>
@@ -6856,7 +6857,7 @@
 				<LinearRing>
 					<tessellate>1</tessellate>
 					<coordinates>
-						75.02280399999999,15.414496,0 75.02246100000001,15.414191,0 75.02272600000001,15.414034,0 75.02299499999999,15.414258,0 75.02280399999999,15.414496,0 
+						75.02296200000001,15.414069,0 75.022839,15.413967,0 75.023138,15.413851,0 75.02296200000001,15.414069,0 
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
