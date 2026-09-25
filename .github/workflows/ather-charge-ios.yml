@@ -2,9 +2,12 @@ name: Ather Charge iOS
 
 on:
   push:
+    branches: ["**"]
     paths:
       - "AtherCharge/**"
       - ".github/workflows/ather-charge-ios.yml"
+    # Pushing a tag like ather-charge-v1.0.0 also publishes the IPA as a GitHub release.
+    tags: ["ather-charge-v*"]
   workflow_dispatch:
 
 jobs:
@@ -12,8 +15,71 @@ jobs:
     name: AtherKit tests
     runs-on: macos-15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Show toolchain
         run: xcodebuild -version && swift --version
       - name: Run unit tests
         run: swift test --package-path AtherCharge/AtherKit
+
+  build:
+    name: Build unsigned IPA
+    runs-on: macos-15
+    needs: test
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        working-directory: AtherCharge
+        run: xcodegen generate
+
+      - name: Build app and widget
+        working-directory: AtherCharge
+        run: |
+          xcodebuild build \
+            -project AtherCharge.xcodeproj \
+            -scheme AtherCharge \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            -quiet \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY=""
+
+      - name: Package IPA
+        working-directory: AtherCharge
+        run: |
+          set -euo pipefail
+          APP=build/Build/Products/Release-iphoneos/AtherCharge.app
+          WIDGET="$APP/PlugIns/AtherChargeWidget.appex"
+          test -d "$WIDGET"
+          # Ad-hoc sign so the App Group entitlement is embedded. Sideloading tools read it
+          # when they re-sign the app with your Apple ID.
+          codesign --force --sign - --entitlements Widget/AtherChargeWidget.entitlements "$WIDGET"
+          codesign --force --sign - --entitlements App/AtherCharge.entitlements "$APP"
+          codesign -d --entitlements - "$WIDGET"
+          codesign -d --entitlements - "$APP"
+          rm -rf Payload && mkdir Payload && cp -R "$APP" Payload/
+          zip -qry ../AtherCharge.ipa Payload
+          ls -lh ../AtherCharge.ipa
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: AtherCharge-ipa
+          path: AtherCharge.ipa
+          if-no-files-found: error
+
+      - name: Publish release
+        if: startsWith(github.ref, 'refs/tags/ather-charge-v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" AtherCharge.ipa \
+            --title "Ather Charge ${GITHUB_REF_NAME#ather-charge-v}" \
+            --notes "Unsigned IPA for sideloading with AltStore or Sideloadly. See AtherCharge/README.md."
